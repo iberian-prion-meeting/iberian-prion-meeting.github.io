@@ -1,5 +1,22 @@
-project: 
-  type: website 
-  output-dir: docs 
-website: 
+project:
+  type: website
+  output-dir: docs
+
+website:
   title: "Iberian Prion Meeting"
+  navbar:
+    left:
+      - href: 2026/index.qmd
+        text: "Home 2026"
+      - href: 2026/abstracts.qmd
+        text: "Abstracts"
+      - href: 2026/committee.qmd
+        text: "Committee"
+      - href: 2026/programme.qmd
+        text: "Programme"
+      - href: 2026/registration.qmd
+        text: "Registration"
+      - href: 2026/venue.qmd
+        text: "Venue"
+      - href: 2026/sponsors.qmd
+        text: "Sponsors"

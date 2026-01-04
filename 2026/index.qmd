@@ -27,3 +27,12 @@ Abstract submission deadline: To be updated soon! — abstract page
 Registration deadline: To be updated soon! — registration page
 
 **Congress: 21-22 May 2026**
+
+## Explore the 2026 Meeting
+
+- [Abstracts](abstracts.qmd)
+- [Committee](committee.qmd)
+- [Programme](programme.qmd)
+- [Registration](registration.qmd)
+- [Venue](venue.qmd)
+- [Sponsors](sponsors.qmd)
