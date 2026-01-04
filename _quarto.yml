@@ -3,3 +3,7 @@ project:
   output-dir: docs 
 website: 
   title: "Iberian Prion Meeting"
+  navbar: 
+    left: 
+      - href: 2026/index.qmd 
+        text: "2026"
