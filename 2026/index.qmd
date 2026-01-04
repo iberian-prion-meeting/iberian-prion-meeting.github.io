@@ -4,7 +4,6 @@ image: assets/img/banner.jpg
 ---
 
 **Madrid, Spain — 2026**  
-
 **Welcome to the 14th Iberian Prion Congress in Madrid!**
 
 The Iberian Prion Congress has always been a multidisciplinary meeting grounded in the One Health approach, bringing together experts from diverse fields to explore the shared molecular mechanisms of prion diseases and other protein misfolding disorders that increasingly affect our aging society. This integrated perspective remains essential for advancing our understanding of these conditions and for driving the development of effective therapeutic strategies.
