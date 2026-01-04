@@ -1,6 +1,5 @@
 ---
 title: "Iberian Prion Meeting 2026"
-image: assets/img/banner.jpg
 ---
 
 **Madrid, Spain — 2026**  
