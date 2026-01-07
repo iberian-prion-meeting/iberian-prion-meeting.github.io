@@ -1,17 +1,10 @@
 [
   {
-    "objectID": "2026/venue.html",
-    "href": "2026/venue.html",
-    "title": "Venue",
-    "section": "",
-    "text": "The Iberian Prion Meeting 2026 will take place in one of the most iconic scientific spaces in Madrid: the Assembly Hall of the Blas Cabrera (former Rocasolano) Institute of Physical Chemistry . This building is part of a campus with a remarkable history that shaped modern science in Spain.\nThe story begins in 1932, when the Rockefeller Building was inaugurated thanks to the support of the Rockefeller Foundation. At that time, it housed the National Institute of Physics and Chemistry, a pioneering centre led by scientists such as Blas Cabrera and Enrique Moles. With state‑of‑the‑art laboratories and strong international connections, it quickly became one of the most advanced research institutes in Europe.\nAfter the creation of the Spanish National Research Council (CSIC) in the 1940s, part of this scientific legacy evolved into the Rocasolano Institute, formally established in 1946 and named after Antonio de Gregorio Rocasolano, a key figure in the development of physical chemistry in Spain. Since then, the institute has been home to leading research in spectroscopy, molecular physics, structural chemistry, and biophysical sciences.\nToday, the Blas Cabrera Istitute continues to combine tradition and innovation, hosting cutting‑edge research while preserving the spirit of scientific curiosity that defined its origins. Its historic Assembly Hall—where the Iberian Prion Meeting 2026 will be held—has witnessed decades of lectures, discoveries, and scientific gatherings.\nCelebrating the meeting here connects our community with a unique scientific heritage and offers an inspiring setting to discuss the latest advances in prion biology.\n\n\n\nYou can watch a short video about the history of the building here (audio in Spanish): ▶ Watch the history video"
-  },
-  {
     "objectID": "2026/venue.html#video-history-of-the-venue.",
     "href": "2026/venue.html#video-history-of-the-venue.",
     "title": "Venue",
-    "section": "",
-    "text": "You can watch a short video about the history of the building here (audio in Spanish): ▶ Watch the history video"
+    "section": "Video: History of the venue.",
+    "text": "Video: History of the venue.\nYou can watch a short video about the history of the building here (audio in Spanish): ▶ Watch the history video"
   },
   {
     "objectID": "2026/venue.html#how-to-get-there.-travel-information",
@@ -42,46 +35,32 @@
     "text": "Beyond Madrid\nMadrid’s privileged location makes it an ideal base for exploring some of Spain’s most remarkable historic cities. All of them are easily accessible by train—some in under 30 minutes—offering perfect cultural getaways before or after the congress.\n\nAlcalá de Henares - A UNESCO World Heritage city known for its historic university and as the birthplace of Miguel de Cervantes. Its academic atmosphere and medieval streets make it a cultural treasure. Distance from Madrid: ~35–41 km Train time: 29–39 minutes on Cercanías trains\nSegovia - Famous for its spectacular Roman aqueduct, fairy‑tale Alcázar, and Gothic cathedral. A compact and unforgettable historic city. Distance from Madrid: ~90–97 km Train time: 28–35 minutes on high‑speed AVE/Avlo trains\nToledo - The “City of Three Cultures,” known for its cathedral, medieval streets, and panoramic views over the Tajo River. Distance from Madrid: ~73–87 km Train time: 33 minutes on AVE trains\nAranjuez - Renowned for its Royal Palace and vast historic gardens, Aranjuez offers a peaceful cultural escape with UNESCO recognition. Distance from Madrid: ~47–50 km Train time: 45–55 minutes on Cercanías or regional trains\nSan Lorenzo de El Escorial - Home to the monumental Royal Monastery of El Escorial, a symbol of Spanish history set in the Sierra de Guadarrama foothills. Distance from Madrid: ~49–58 km Train time: 55–65 minutes on regional trains\nÁvila - A walled medieval city famous for its perfectly preserved ramparts, Romanesque churches, and spiritual heritage linked to Saint Teresa. Distance from Madrid: ~109–117 km Train time: 1h 20–1h 40 on regional or Media Distancia trains\n\nWe hope you enjoy your visit!"
   },
   {
-    "objectID": "2026/registration.html",
-    "href": "2026/registration.html",
-    "title": "Registration",
-    "section": "",
-    "text": "Details on registration fees, categories, and deadlines will be made available here.\n\n\nTypical categories may include:\n\nRegular participants\n\nEarly-career researchers\n\nStudents\n\nAccompanying persons\n\n\n\n\nInformation on accepted payment methods and invoicing will be provided once the registration system is open."
-  },
-  {
     "objectID": "2026/registration.html#registration-categories",
     "href": "2026/registration.html#registration-categories",
     "title": "Registration",
-    "section": "",
-    "text": "Typical categories may include:\n\nRegular participants\n\nEarly-career researchers\n\nStudents\n\nAccompanying persons"
+    "section": "Registration categories",
+    "text": "Registration categories\nTypical categories may include:\n\nRegular participants\n\nEarly-career researchers\n\nStudents\n\nAccompanying persons"
   },
   {
     "objectID": "2026/registration.html#payment",
     "href": "2026/registration.html#payment",
     "title": "Registration",
-    "section": "",
-    "text": "Information on accepted payment methods and invoicing will be provided once the registration system is open."
-  },
-  {
-    "objectID": "2026/posters.html",
-    "href": "2026/posters.html",
-    "title": "Poster Information",
-    "section": "",
-    "text": "Guidelines for poster preparation and presentation will appear here.\n\n\n\nRecommended size: To be announced (e.g., A0 portrait).\n\nPosters should be prepared in English.\n\n\n\n\nPoster sessions will provide ample time for discussion and interaction with presenters.\nThe exact schedule and assigned poster numbers will be published once the programme is finalized."
+    "section": "Payment",
+    "text": "Payment\nInformation on accepted payment methods and invoicing will be provided once the registration system is open."
   },
   {
     "objectID": "2026/posters.html#poster-format",
     "href": "2026/posters.html#poster-format",
     "title": "Poster Information",
-    "section": "",
-    "text": "Recommended size: To be announced (e.g., A0 portrait).\n\nPosters should be prepared in English."
+    "section": "Poster format",
+    "text": "Poster format\n\nRecommended size: To be announced (e.g., A0 portrait).\n\nPosters should be prepared in English."
   },
   {
     "objectID": "2026/posters.html#poster-sessions",
     "href": "2026/posters.html#poster-sessions",
     "title": "Poster Information",
-    "section": "",
-    "text": "Poster sessions will provide ample time for discussion and interaction with presenters.\nThe exact schedule and assigned poster numbers will be published once the programme is finalized."
+    "section": "Poster sessions",
+    "text": "Poster sessions\nPoster sessions will provide ample time for discussion and interaction with presenters.\nThe exact schedule and assigned poster numbers will be published once the programme is finalized."
   },
   {
     "objectID": "2026/contact.html",
@@ -98,25 +77,18 @@
     "text": "Accommodation\nInformation on recommended hotels, special rates for participants, and booking procedures will be published here.\nWe aim to provide options at different price ranges and within convenient distance from the venue.\nPlease check this page regularly for updates on:\n\nNegotiated hotel rates\n\nBooking codes or links\n\nDeadlines for guaranteed availability"
   },
   {
-    "objectID": "2026/abstracts.html",
-    "href": "2026/abstracts.html",
-    "title": "Abstract Submission",
-    "section": "",
-    "text": "Information on abstract submission, including important dates, formatting guidelines, and submission platform, will be provided here.\n\n\n\nOpening of abstract submission: To be announced\n\nDeadline for abstract submission: To be announced\n\nNotification of acceptance: To be announced\n\n\n\n\n\nAbstracts should be written in English.\n\nThe abstract body should not exceed the word limit specified in the final call.\n\nPlease indicate your preferred presentation format (oral or poster) when submitting.\n\nFurther details and a template will be provided once the submission system is open."
-  },
-  {
     "objectID": "2026/abstracts.html#important-dates",
     "href": "2026/abstracts.html#important-dates",
     "title": "Abstract Submission",
-    "section": "",
-    "text": "Opening of abstract submission: To be announced\n\nDeadline for abstract submission: To be announced\n\nNotification of acceptance: To be announced"
+    "section": "Important dates",
+    "text": "Important dates\n\nOpening of abstract submission: March 6th\n\nDeadline for abstract submission: April 6th\n\nNotification of acceptance: To be announced"
   },
   {
     "objectID": "2026/abstracts.html#guidelines",
     "href": "2026/abstracts.html#guidelines",
     "title": "Abstract Submission",
-    "section": "",
-    "text": "Abstracts should be written in English.\n\nThe abstract body should not exceed the word limit specified in the final call.\n\nPlease indicate your preferred presentation format (oral or poster) when submitting.\n\nFurther details and a template will be provided once the submission system is open."
+    "section": "Guidelines",
+    "text": "Guidelines\n\nAbstracts should be written in English.\n\nThe abstract body should not exceed the word limit specified in the final call.\n\nPlease indicate your preferred presentation format (oral or poster) when submitting.\n\nFurther details and a template will be provided once the submission system is open."
   },
   {
     "objectID": "2026/committee.html",
