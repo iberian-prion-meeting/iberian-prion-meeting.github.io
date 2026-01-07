@@ -21,3 +21,25 @@
 .header-logo img {
   height: 400px; /* 10 veces más grande que antes */
 }
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-bottom: 2em;
+}
+
+th, td {
+  border: 1px solid #ccc;
+  padding: 8px;
+  text-align: left;
+}
+
+th {
+  background-color: #b22222; /* rojo bandera Comunidad de Madrid */
+  color: white;
+}
+
+td.time {
+  font-weight: bold;
+  color: #b22222;
+}
