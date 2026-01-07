@@ -4,8 +4,17 @@ project:
 
 website:
   title: "Iberian Prion Meeting"
+  page-footer: false
+  sidebar: false
+
+  # Logo grande debajo de la barra superior
+  page-header:
+    contents: |
+      <div class="header-logo">
+        <img src="2026/figures/Logo.jpg">
+      </div>
+
   navbar:
-    logo: 2026/figures/logo.jpg
     left:
       - href: 2026/index.qmd
         text: "Home 2026"
@@ -21,6 +30,8 @@ website:
         text: "Venue"
       - href: 2026/sponsors.qmd
         text: "Sponsors"
-format: 
-  html: 
+
+format:
+  html:
     css: styles.css
+

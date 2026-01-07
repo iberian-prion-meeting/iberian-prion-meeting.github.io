@@ -12,7 +12,12 @@
 .navbar-nav .nav-link:hover {
   color: #FFD700 !important;
 }
-.navbar-brand img {
-  height: 40px; 
-  margin-right: 10px; 
+
+.header-logo {
+  display: block;
+  margin: 20px 0 10px 20px; /* separación y alineación izquierda */
+}
+
+.header-logo img {
+  height: 400px; /* 10 veces más grande que antes */
 }
