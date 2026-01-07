@@ -5,6 +5,7 @@ project:
 website:
   title: "Iberian Prion Meeting"
   navbar:
+    logo: 2026/figures/logo.jpg
     left:
       - href: 2026/index.qmd
         text: "Home 2026"
@@ -20,3 +21,6 @@ website:
         text: "Venue"
       - href: 2026/sponsors.qmd
         text: "Sponsors"
+format: 
+  html: 
+    css: styles.css

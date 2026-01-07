@@ -2,15 +2,13 @@
 title: "Scientific and Organizing Committees"
 ---
 
-# Organizing Committee
-
 **Chairs**
 
 - Juan Carlos Espinosa Martín, Co-Chair, CISA-INIA-CSIC, Spain
 
 - Natalia Fernández Borges, Co-Chair, CISA-INIA-CSIC, Spain
 
-
+# Organizing Committee
 
 - Jesús Requena, USC, Spain
 
@@ -49,8 +47,6 @@ title: "Scientific and Organizing Committees"
 
 - Juan José Badiola (University of Zaragoza)
 
-- Juan Carlos Espinosa (CISA-INIA-CSIC)
-
 - Juan María Torres (CISA-INIA-CSIC)
 
 - Leonor Orge (INIAV, Oeiras)
@@ -58,8 +54,6 @@ title: "Scientific and Organizing Committees"
 - Maria de Lurdes Pinto (University of Trás-os-Montes e Alto Douro)
 
 - Miguel Calero (ISCIII)
-
-- Natalia Fernández-Borges (CISA-INIA-CSIC)
 
 - Nuno Anjo (CIC BioGUNE, Bilbao)
 
