@@ -4,6 +4,8 @@ project:
   resources: 
     - styles.css 
     - _include.html
+  render: 
+    - 2026/*.qmd
 
 website:
   title: "Iberian Prion Meeting"
