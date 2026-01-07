@@ -2,7 +2,6 @@
 title: "Registration"
 ---
 
-# Registration
 
 Details on registration fees, categories, and deadlines will be made available here.
 
