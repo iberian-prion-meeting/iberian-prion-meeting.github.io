@@ -9,6 +9,7 @@ project:
 
 website:
   title: "Iberian Prion Meeting"
+  site-url: /2026/index.html
   sidebar: false
 
   navbar:
