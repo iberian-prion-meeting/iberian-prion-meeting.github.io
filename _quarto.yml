@@ -1,6 +1,9 @@
 project:
   type: website
   output-dir: docs
+  resources: 
+    - styles.css 
+    - _include.html
 
 website:
   title: "Iberian Prion Meeting"
