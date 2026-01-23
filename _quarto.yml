@@ -3,7 +3,8 @@ project:
   output-dir: docs
   resources: 
     - styles.css 
-    - _include.html
+    - _beforebody.html
+    - _footer.html
   render: 
     - 2026/*.qmd
 
@@ -32,7 +33,9 @@ website:
 format:
   html:
     css: styles.css
-    include-before-body: _include.html
+    include-before-body: _beforebody.html
+    include-after-body: _footer.html
+
 
 # test
 
