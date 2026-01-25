@@ -35,3 +35,8 @@ Registration deadline: To be updated soon! — registration page
 - [Registration](registration.qmd)
 - [Venue](venue.qmd)
 - [Sponsors](sponsors.qmd)
+
+<p style="color: #777777; font-size: 9pt; margin-top: 2em;">
+© 2026 Website developed by Michał Burdukiewicz, Carlos Pintado‑Grima (IBB‑UAB), 
+Dino Gasparotto (UNITN), Sara Canoyra Sanchez (CSIC) y Juan Carlos Espinosa (CSIC).
+</p>
