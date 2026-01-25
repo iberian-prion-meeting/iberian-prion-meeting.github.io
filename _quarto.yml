@@ -1,0 +1,40 @@
+project:
+  type: website
+  output-dir: docs
+  resources: 
+    - styles.css 
+    - _include.html
+  render: 
+    - 2026/*.qmd
+
+website:
+  title: "Iberian Prion Meeting"
+  site-url: /
+  sidebar: false
+
+  navbar:
+    left:
+      - href: 2026/index.qmd
+        text: "Home 2026"
+      - href: 2026/abstracts.qmd
+        text: "Abstracts"
+      - href: 2026/committee.qmd
+        text: "Committee"
+      - href: 2026/programme.qmd
+        text: "Programme"
+      - href: 2026/registration.qmd
+        text: "Registration"
+      - href: 2026/venue.qmd
+        text: "Venue"
+      - href: 2026/sponsors.qmd
+        text: "Sponsors"
+
+format:
+  html:
+    css: styles.css
+    include-before-body: _include.html
+
+# test
+
+
+
