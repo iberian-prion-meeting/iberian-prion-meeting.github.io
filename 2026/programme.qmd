@@ -1,5 +1,6 @@
 ---
 title: "Programme"
+site: true
 ---
 
 The detailed scientific programme of the Iberian Prion Meeting 2026 will be announced in due time.
@@ -32,7 +33,7 @@ A downloadable PDF version of the programme will also be made available here onc
 |----------------|--------------------------------------------------------------------------|
 | 14:15 – 16:40  | **Session: Prion Diseases in Animals**<br>Invited speaker + Oral talks   |
 | 16:45 – 18:45  | Poster party *(soft drinks, pizza, sandwiches)* + Group photo *(Claustro)* |
-
+|                | Visit to the "Residencia de Estudiantes"                                 |
 ---
 
 ## **Friday, May 22nd 2026**
@@ -52,10 +53,10 @@ A downloadable PDF version of the programme will also be made available here onc
 | 14:15 – 16:00  | Talks                                                                    |
 | 16:00 – 16:30  | Patient associations                                                     |
 | 16:30 – 16:40  | Next meeting announcement + Closing remarks                              |
-| 16:45 – 18:45  | Farewell party *(coffee, soft drinks, pizza, sandwiches)*<br>Poster prize, removal, closing *(Claustro)* |
+| 16:45 – 18:45  | Farewell party *(coffee and soft drinks)*<br>Poster prize, removal, closing *(Claustro)* |
 
 ### **Evening**
 
 | Time           | Activity                                                                 |
 |----------------|--------------------------------------------------------------------------|
-| 21:00          | Conference Symposium *(Networking with food)*                            |
+| 21:00          | Conference Symposium *(Networking about prions)*                            |

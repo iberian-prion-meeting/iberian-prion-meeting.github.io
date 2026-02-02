@@ -4,7 +4,11 @@ title: "Venue"
 
 # Conference Venue 
 
-The Iberian Prion Meeting 2026 will take place in one of the most iconic scientific spaces in Madrid: the Assembly Hall of the Blas Cabrera (former Rocasolano) Institute of Physical Chemistry . This building is part of a campus with a remarkable history that shaped modern science in Spain.
+The Iberian Prion Meeting 2026 will take place in one of the most iconic scientific spaces in Madrid: the Assembly Hall of the Blas Cabrera (former Rocasolano) Institute of Physical Chemistry (119 Serrano Street). This building is part of a campus with a remarkable history that shaped modern science in Spain.
+
+<img src="figures/IQBC.jpg" height="300">
+
+## History of the venue. 
 
 The story begins in 1932, when the Rockefeller Building was inaugurated thanks to the support of the Rockefeller Foundation. At that time, it housed the National Institute of Physics and Chemistry, a pioneering centre led by scientists such as Blas Cabrera and Enrique Moles. With state‑of‑the‑art laboratories and strong international connections, it quickly became one of the most advanced research institutes in Europe.
 
@@ -14,11 +18,7 @@ Today, the Blas Cabrera Istitute continues to combine tradition and innovation, 
 
 Celebrating the meeting here connects our community with a unique scientific heritage and offers an inspiring setting to discuss the latest advances in prion biology.
 
-<img src="figures/IQBC.jpg" height="300">
-
-<img src="Logo.jpg" height="300">
-
-## Video: History of the venue. 
+## Video. 
 
 You can watch a short video about the history of the building here (audio in Spanish): [▶ Watch the history video](https://www.rtve.es/play/videos/la-aventura-del-saber/aventura-del-saber-90-aniversario-instituto-quimica-fisica-rocasolano-csic/6777230/?fbclid=IwY2xjawPAeH5leHRuA2FlbQIxMABicmlkETFJdUJQdWJYejVHc2FUazZvc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHtvKzTDi0mDQsT-dT8AnX1A0KVfk1zhvw223eWoC1Z7WK6Tik3eFpEdtT2e7_aem_k5vhtTdKbjJuJQYdvM7fAw){.btn .btn-primary}
 
@@ -32,7 +32,7 @@ The Claustro is part of the CSIC’s central campus and reflects the architectur
 
 <img src="figures/claustro.jpg" height="100"> 
 
-To reach the Claustro from the Rocasolano Institute (Assembly Hall), simply walk across the internal campus path toward the Miguel A. Catalán Physics Centre, located just beyond the Blas Cabrera Institute. The route is clearly signposted and takes less than two minutes on foot.
+To reach the Claustro from the Rocasolano Institute (Assembly Hall), simply walk across the internal campus path toward the Miguel A. Catalán Physics Centre, located just beyond the Blas Cabrera Institute. The route takes less than two minutes on foot.
 
 📍 View campus map
 

@@ -1,3 +1,6 @@
+website:
+  navbar: false
+
 format:
   html:
     toc: true

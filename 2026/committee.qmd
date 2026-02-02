@@ -17,6 +17,8 @@ title: "Scientific and Organizing Committees"
 - Laura Manzanares Alaminos, CISA-INIA-CSIC, Spain
 
 - Leticia Lucero López, CNB-CSIC, Spain
+
+- Nuno Filipe Coutinho Gonçalves Anjo, CICbioGUNE, Spain
  
 - Patricia Lorenzo Balboa, CISA-INIA-CSIC, Spain
 
@@ -29,55 +31,55 @@ title: "Scientific and Organizing Committees"
 
 # Scientific Committee
 
-- Alba Marín-Moreno (LCV-Algete)
+- Alba Marín-Moreno (LCV, Spain)
 
-- Alicia Otero (University of Zaragoza)
+- Alicia Otero (UZAR, Spain)
 
-- Emiliano Biassini (University of Trento)
+- Ana Rita Álvaro (CNC-CIBB-iiiUC, Portugal)
+  
+- Emiliano Biassini (University of Trento, Italy)
 
-- Enric Vidal (IRTA-Cresa, UAB, Barcelona)
+- Enric Vidal (IRTA-Cresa; UAB, Spain)
 
-- Glen Telling (Colorado State University, Prion Research Center)
+- Glen Telling (Colorado State University; Prion Research Center, USA)
 
-- Jesús Requena (University of Santiago de Compostela)
+- Jesús Requena (University of Santiago de Compostela, Spain)
 
-- Joaquín Castilla (CIC BioGUNE, Bilbao)
+- Joaquín Castilla (CIC BioGUNE; Spain)
 
-- José Antonio del Río (University of Barcelona)
+- José Antonio del Río (University of Barcelona, Spain)
 
-- Juan José Badiola (University of Zaragoza)
+- Juan María Torres (CISA-INIA-CSIC, Spain)
 
-- Juan María Torres (CISA-INIA-CSIC)
+- Leonor Orge (INIAV, Portugal)
 
-- Leonor Orge (INIAV, Oeiras)
+- Maria de Lurdes Pinto (UTAD, Portugal)
 
-- Maria de Lurdes Pinto (University of Trás-os-Montes e Alto Douro)
+- Maria dos Anjos Pires (UTAD, SPCV, Portugal)
+  
+- Miguel Calero (ISCIII, Spain)
 
-- Miguel Calero (ISCIII)
+- Nuno Filipe Coutinho Gonçalves Anjo (CIC BioGUNE; Spain)
 
-- Nuno Anjo (CIC BioGUNE, Bilbao)
+- Olivier Andreoletti (INRAE, France)
 
-- Olivier Andreoletti (INRAE, Toulouse)
+- Rafael Giraldo Suárez (CNB-CSIC, Spain)
 
-- Rafael Giraldo Suárez (CNB-CSIC)
+- Raquel Sánchez-Valle (Hospital Clínic de Barcelona, Spain)
 
-- Raquel Sánchez-Valle (University of Barcelona)
+- Romolo Nonno (ISS, Italy)
 
-- Raimon Sabaté (University of Barcelona)
+- Salvador Ventura (Autonomous University of Barcelona, Spain)
 
-- Romolo Nonno (ISS, Rome)
+- Susana Guimarães (University of Porto, Portugal) 
 
-- Salvador Ventura (Autonomous University of Barcelona)
+- Tiago Oteiro (University Medical Center Goettingen, Germany)
 
-- Susana Guimarães (University of Porto) 
+- Tuane CRG Vieira (Universidade Federal do Rio de Janeiro, Brasil)
 
-- Tiago Oteiro (University Medical Center Goettingen)
+- Sylvie Benestad (NVI, Ås, Norway) 
 
-- Tuane CRG Vieira (Universidade Federal do Rio de Janeiro)
-
-- Sylvie Benestad (NVI, Ås) 
-
-- Vincent Beringue  (INRAE, Jouy-en-Josas)
+- Vincent Beringue  (INRAE, France)
 
 
 

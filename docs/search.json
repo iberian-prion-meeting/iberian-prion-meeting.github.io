@@ -1,10 +1,17 @@
 [
   {
-    "objectID": "2026/venue.html#video-history-of-the-venue.",
-    "href": "2026/venue.html#video-history-of-the-venue.",
+    "objectID": "2026/venue.html#history-of-the-venue.",
+    "href": "2026/venue.html#history-of-the-venue.",
     "title": "Venue",
-    "section": "Video: History of the venue.",
-    "text": "Video: History of the venue.\nYou can watch a short video about the history of the building here (audio in Spanish): ▶ Watch the history video"
+    "section": "History of the venue.",
+    "text": "History of the venue.\nThe story begins in 1932, when the Rockefeller Building was inaugurated thanks to the support of the Rockefeller Foundation. At that time, it housed the National Institute of Physics and Chemistry, a pioneering centre led by scientists such as Blas Cabrera and Enrique Moles. With state‑of‑the‑art laboratories and strong international connections, it quickly became one of the most advanced research institutes in Europe.\nAfter the creation of the Spanish National Research Council (CSIC) in the 1940s, part of this scientific legacy evolved into the Rocasolano Institute, formally established in 1946 and named after Antonio de Gregorio Rocasolano, a key figure in the development of physical chemistry in Spain. Since then, the institute has been home to leading research in spectroscopy, molecular physics, structural chemistry, and biophysical sciences.\nToday, the Blas Cabrera Istitute continues to combine tradition and innovation, hosting cutting‑edge research while preserving the spirit of scientific curiosity that defined its origins. Its historic Assembly Hall—where the Iberian Prion Meeting 2026 will be held—has witnessed decades of lectures, discoveries, and scientific gatherings.\nCelebrating the meeting here connects our community with a unique scientific heritage and offers an inspiring setting to discuss the latest advances in prion biology."
+  },
+  {
+    "objectID": "2026/venue.html#video.",
+    "href": "2026/venue.html#video.",
+    "title": "Venue",
+    "section": "Video.",
+    "text": "Video.\nYou can watch a short video about the history of the building here (audio in Spanish): ▶ Watch the history video"
   },
   {
     "objectID": "2026/venue.html#how-to-get-there.-travel-information",
@@ -35,25 +42,18 @@
     "text": "Beyond Madrid\nMadrid’s privileged location makes it an ideal base for exploring some of Spain’s most remarkable historic cities. All of them are easily accessible by train—some in under 30 minutes—offering perfect cultural getaways before or after the congress.\n\nAlcalá de Henares - A UNESCO World Heritage city known for its historic university and as the birthplace of Miguel de Cervantes. Its academic atmosphere and medieval streets make it a cultural treasure. Distance from Madrid: ~35–41 km Train time: 29–39 minutes on Cercanías trains\nSegovia - Famous for its spectacular Roman aqueduct, fairy‑tale Alcázar, and Gothic cathedral. A compact and unforgettable historic city. Distance from Madrid: ~90–97 km Train time: 28–35 minutes on high‑speed AVE/Avlo trains\nToledo - The “City of Three Cultures,” known for its cathedral, medieval streets, and panoramic views over the Tajo River. Distance from Madrid: ~73–87 km Train time: 33 minutes on AVE trains\nAranjuez - Renowned for its Royal Palace and vast historic gardens, Aranjuez offers a peaceful cultural escape with UNESCO recognition. Distance from Madrid: ~47–50 km Train time: 45–55 minutes on Cercanías or regional trains\nSan Lorenzo de El Escorial - Home to the monumental Royal Monastery of El Escorial, a symbol of Spanish history set in the Sierra de Guadarrama foothills. Distance from Madrid: ~49–58 km Train time: 55–65 minutes on regional trains\nÁvila - A walled medieval city famous for its perfectly preserved ramparts, Romanesque churches, and spiritual heritage linked to Saint Teresa. Distance from Madrid: ~109–117 km Train time: 1h 20–1h 40 on regional or Media Distancia trains\n\nWe hope you enjoy your visit!"
   },
   {
-    "objectID": "2026/registration.html",
-    "href": "2026/registration.html",
+    "objectID": "2026/registration.html#registration",
+    "href": "2026/registration.html#registration",
     "title": "Registration",
-    "section": "",
-    "text": "Details on registration fees, categories, and deadlines will be made available here."
+    "section": "Registration",
+    "text": "Registration\nEarly registration: 190 €. Deadline 17th April 2026.\nLate registration: 285 €. From 17th April 2026.\nThe registration fee includes meeting attendance and documentation, as well as lunches, the poster party, and coffee-breaks."
   },
   {
-    "objectID": "2026/registration.html#registration-categories",
-    "href": "2026/registration.html#registration-categories",
+    "objectID": "2026/registration.html#registration-form-and-payment",
+    "href": "2026/registration.html#registration-form-and-payment",
     "title": "Registration",
-    "section": "Registration categories",
-    "text": "Registration categories\nTypical categories may include:\n\nRegular participants\n\nEarly-career researchers\n\nStudents\n\nAccompanying persons"
-  },
-  {
-    "objectID": "2026/registration.html#payment",
-    "href": "2026/registration.html#payment",
-    "title": "Registration",
-    "section": "Payment",
-    "text": "Payment\nInformation on accepted payment methods and invoicing will be provided once the registration system is open."
+    "section": "Registration form and payment",
+    "text": "Registration form and payment\nTo fill in the registration form and proceed with the payment, click on this link: (to be updated)"
   },
   {
     "objectID": "2026/posters.html#poster-format",
@@ -74,7 +74,7 @@
     "href": "2026/contact.html",
     "title": "Contact",
     "section": "",
-    "text": "Contact\nFor any questions regarding the Iberian Prion Meeting 2026, please contact the organizing committee:\n\nEmail: info@iberianprion2026.org (replace with the actual address)\n\nAdditional contact information or a dedicated contact form may be added here later."
+    "text": "For any questions regarding the Iberian Prion Meeting 2026, please contact the organizing committee via Email:\n\nEmail: inia_iberianprion2026@inia.csic.es\nAdditional contact information or a dedicated contact form may be added here later."
   },
   {
     "objectID": "2026/accommodation.html",
@@ -109,14 +109,14 @@
     "href": "2026/committee.html",
     "title": "Scientific and Organizing Committees",
     "section": "",
-    "text": "Chairs\n\nJuan Carlos Espinosa Martín, Co-Chair, CISA-INIA-CSIC, Spain\nNatalia Fernández Borges, Co-Chair, CISA-INIA-CSIC, Spain\n\n\nOrganizing Committee\n\nJesús Requena, USC, Spain\nJuan María Torres Trillo, CISA-INIA-CSIC, Spain\nLaura Manzanares Alaminos, CISA-INIA-CSIC, Spain\nLeticia Lucero López, CNB-CSIC, Spain\nPatricia Lorenzo Balboa, CISA-INIA-CSIC, Spain\nRafael Giraldo, CNB-CSIC, Spain\nSara Canoyra Sánchez, CISA-INIA-CSIC, Spain\nSara González-Navarro, Spanish Prion Disease Foundation, Spain\n\n\n\nScientific Committee\n\nAlba Marín-Moreno (LCV-Algete)\nAlicia Otero (University of Zaragoza)\nEmiliano Biassini (University of Trento)\nEnric Vidal (IRTA-Cresa, UAB, Barcelona)\nGlen Telling (Colorado State University, Prion Research Center)\nJesús Requena (University of Santiago de Compostela)\nJoaquín Castilla (CIC BioGUNE, Bilbao)\nJosé Antonio del Río (University of Barcelona)\nJuan José Badiola (University of Zaragoza)\nJuan María Torres (CISA-INIA-CSIC)\nLeonor Orge (INIAV, Oeiras)\nMaria de Lurdes Pinto (University of Trás-os-Montes e Alto Douro)\nMiguel Calero (ISCIII)\nNuno Anjo (CIC BioGUNE, Bilbao)\nOlivier Andreoletti (INRAE, Toulouse)\nRafael Giraldo Suárez (CNB-CSIC)\nRaquel Sánchez-Valle (University of Barcelona)\nRaimon Sabaté (University of Barcelona)\nRomolo Nonno (ISS, Rome)\nSalvador Ventura (Autonomous University of Barcelona)\nSusana Guimarães (University of Porto)\nTiago Oteiro (University Medical Center Goettingen)\nTuane CRG Vieira (Universidade Federal do Rio de Janeiro)\nSylvie Benestad (NVI, Ås)\nVincent Beringue (INRAE, Jouy-en-Josas)"
+    "text": "Chairs\n\nJuan Carlos Espinosa Martín, Co-Chair, CISA-INIA-CSIC, Spain\nNatalia Fernández Borges, Co-Chair, CISA-INIA-CSIC, Spain\n\n\nOrganizing Committee\n\nJesús Requena, USC, Spain\nJuan María Torres Trillo, CISA-INIA-CSIC, Spain\nLaura Manzanares Alaminos, CISA-INIA-CSIC, Spain\nLeticia Lucero López, CNB-CSIC, Spain\nNuno Filipe Coutinho Gonçalves Anjo, CICbioGUNE, Spain\nPatricia Lorenzo Balboa, CISA-INIA-CSIC, Spain\nRafael Giraldo, CNB-CSIC, Spain\nSara Canoyra Sánchez, CISA-INIA-CSIC, Spain\nSara González-Navarro, Spanish Prion Disease Foundation, Spain\n\n\n\nScientific Committee\n\nAlba Marín-Moreno (LCV, Spain)\nAlicia Otero (UZAR, Spain)\nAna Rita Álvaro (CNC-CIBB-iiiUC, Portugal)\nEmiliano Biassini (University of Trento, Italy)\nEnric Vidal (IRTA-Cresa; UAB, Spain)\nGlen Telling (Colorado State University; Prion Research Center, USA)\nJesús Requena (University of Santiago de Compostela, Spain)\nJoaquín Castilla (CIC BioGUNE; Spain)\nJosé Antonio del Río (University of Barcelona, Spain)\nJuan María Torres (CISA-INIA-CSIC, Spain)\nLeonor Orge (INIAV, Portugal)\nMaria de Lurdes Pinto (UTAD, Portugal)\nMaria dos Anjos Pires (UTAD, SPCV, Portugal)\nMiguel Calero (ISCIII, Spain)\nNuno Filipe Coutinho Gonçalves Anjo (CIC BioGUNE; Spain)\nOlivier Andreoletti (INRAE, France)\nRafael Giraldo Suárez (CNB-CSIC, Spain)\nRaquel Sánchez-Valle (Hospital Clínic de Barcelona, Spain)\nRomolo Nonno (ISS, Italy)\nSalvador Ventura (Autonomous University of Barcelona, Spain)\nSusana Guimarães (University of Porto, Portugal)\nTiago Oteiro (University Medical Center Goettingen, Germany)\nTuane CRG Vieira (Universidade Federal do Rio de Janeiro, Brasil)\nSylvie Benestad (NVI, Ås, Norway)\nVincent Beringue (INRAE, France)"
   },
   {
     "objectID": "2026/index.html",
     "href": "2026/index.html",
     "title": "Iberian Prion Meeting 2026",
     "section": "",
-    "text": "Madrid, Spain — 2026\nWelcome to the 14th Iberian Prion Congress in Madrid!\nThe Iberian Prion Congress has always been a multidisciplinary meeting grounded in the One Health approach, bringing together experts from diverse fields to explore the shared molecular mechanisms of prion diseases and other protein misfolding disorders that increasingly affect our aging society. This integrated perspective remains essential for advancing our understanding of these conditions and for driving the development of effective therapeutic strategies.\nWe are honored to host the 14th Iberian Prion Congress in Madrid, a major European capital distinguished by its rich political heritage and its enduring scientific tradition. This year’s meeting will take place in a historic and scientifically significant venue, a landmark institution that has played a central role in shaping biomedical research in Spain and has contributed to scientific progress on the international stage. Here, leading scientists, clinicians, biologists, veterinarians, biotechnologists, biochemists, and other specialists from across the Iberian Peninsula and beyond will gather to share knowledge and strengthen collaborative networks.\nIn particular, following the tradition of previous editions, we are committed to nurturing the participation of young scientists. Their innovative ideas, fresh perspectives, and groundbreaking research are the keys to unlocking new avenues in prion science. The congress will feature dedicated sessions and interactive discussions that offer young researchers the opportunity to present and engage with their peers, fostering an environment of mentorship and knowledge exchange beneficial to all parties.\nAs we embark on this scientific journey in Madrid, we are inspired not only by the vibrant intellectual atmosphere of this historic city but also by the spirit of collaboration and shared purpose that permeates the Iberian Prion Congress. Together, we will strive to transcend boundaries, explore new frontiers, and ultimately find solutions to the challenges posed by prion diseases.\nOn behalf of the organizing committee, we extend our heartfelt gratitude to all the participants, speakers, sponsors, and volunteers who have contributed to making this congress possible. Your dedication and support are instrumental in our collective pursuit of advancing prion research.\nWe eagerly await your arrival at the 14th Iberian Prion Congress in Madrid. Let us join forces, exchange knowledge, and forge new partnerships that will pave the way for a future in which prion diseases are conquered, bringing hope and relief to countless individuals affected by these devastating conditions.\nThe Organizing Committee\nImportant dates\nAbstract submission deadline: To be updated soon! — abstract page\nRegistration deadline: To be updated soon! — registration page\nCongress: 21-22 May 2026"
+    "text": "Madrid, Spain — 2026\nWelcome to the 14th Iberian Prion Congress in Madrid!\nThe Iberian Prion Congress has long been a multidisciplinary meeting bringing together experts to explore the shared mechanisms of prion diseases and other protein misfolding disorders.\nWe are honored to host the 14th Iberian Prion Congress in Madrid, a European capital with a rich political and scientific heritage. The meeting will take place in a historic and influential biomedical institution, uniting leading scientists, clinicians, veterinarians, and specialists from across the Iberian Peninsula and beyond to exchange knowledge and strengthen collaborations. In addition, the active involvement of patient associations will provide an essential perspective, reinforcing the social relevance and human impact of our collective efforts.\nAs in previous editions, we are committed to fostering the participation of young scientists, whose innovative ideas and fresh perspectives drive progress in prion research. Dedicated sessions and interactive discussions will offer them opportunities for presentation, mentorship, and scientific exchange.\nInspired by Madrid’s vibrant intellectual atmosphere and the collaborative spirit of this congress, we aim to explore new frontiers and work toward solutions to the challenges posed by prion diseases. We extend our sincere gratitude to all participants, speakers, sponsors, and volunteers for their essential contributions.\nWe look forward to welcoming you to Madrid and joining forces to build new partnerships that will help pave the way toward conquering prion diseases and bringing hope to those affected.\nThe Organizing Committee\nImportant dates\nAbstract submission deadline: To be updated soon! — abstract page\nRegistration deadline: To be updated soon! — registration page\nCongress: 21-22 May 2026"
   },
   {
     "objectID": "2026/index.html#explore-the-2026-meeting",
@@ -137,20 +137,20 @@
     "href": "2026/programme.html#thursday-may-21st-2026",
     "title": "Programme",
     "section": "Thursday, May 21st 2026",
-    "text": "Thursday, May 21st 2026\n\nMorning\n\n\n\n\n\n\n\nTime\nActivity\n\n\n\n\n09:00 – 10:00\nRegistration, poster set-up and welcome coffee (Claustro)\n\n\n10:00 – 10:30\nWelcome\n\n\n10:30 – 12:45\nSession: Prion Structure & BiologyInvited speaker + Oral talks\n\n\n12:45 – 14:15\nLunch (Comedor Serrano 150)\n\n\n\n\n\nAfternoon\n\n\n\n\n\n\n\nTime\nActivity\n\n\n\n\n14:15 – 16:40\nSession: Prion Diseases in AnimalsInvited speaker + Oral talks\n\n\n16:45 – 18:45\nPoster party (soft drinks, pizza, sandwiches) + Group photo (Claustro)"
+    "text": "Thursday, May 21st 2026\n\nMorning\n\n\n\n\n\n\n\nTime\nActivity\n\n\n\n\n09:00 – 10:00\nRegistration, poster set-up and welcome coffee (Claustro)\n\n\n10:00 – 10:30\nWelcome\n\n\n10:30 – 12:45\nSession: Prion Structure & BiologyInvited speaker + Oral talks\n\n\n12:45 – 14:15\nLunch (Comedor Serrano 150)\n\n\n\n\n\nAfternoon\n\n\n\n\n\n\n\nTime\nActivity\n\n\n\n\n14:15 – 16:40\nSession: Prion Diseases in AnimalsInvited speaker + Oral talks\n\n\n16:45 – 18:45\nPoster party (soft drinks, pizza, sandwiches) + Group photo (Claustro)\n\n\n\nVisit to the “Residencia de Estudiantes”"
   },
   {
     "objectID": "2026/programme.html#friday-may-22nd-2026",
     "href": "2026/programme.html#friday-may-22nd-2026",
     "title": "Programme",
     "section": "Friday, May 22nd 2026",
-    "text": "Friday, May 22nd 2026\n\nMorning\n\n\n\n\n\n\n\nTime\nActivity\n\n\n\n\n09:00 – 10:45\nSession: Prion Diseases in AnimalsOral presentations\n\n\n10:45 – 12:45\nSession: Prion and Prion-like Diseases in HumansTalks\n\n\n12:45 – 14:15\nLunch (Comedor Serrano 150)\n\n\n\n\n\nAfternoon\n\n\n\n\n\n\n\nTime\nActivity\n\n\n\n\n14:15 – 16:00\nTalks\n\n\n16:00 – 16:30\nPatient associations\n\n\n16:30 – 16:40\nNext meeting announcement + Closing remarks\n\n\n16:45 – 18:45\nFarewell party (coffee, soft drinks, pizza, sandwiches)Poster prize, removal, closing (Claustro)\n\n\n\n\n\nEvening\n\n\n\n\n\n\n\nTime\nActivity\n\n\n\n\n21:00\nConference Symposium (Networking with food)"
+    "text": "Friday, May 22nd 2026\n\nMorning\n\n\n\n\n\n\n\nTime\nActivity\n\n\n\n\n09:00 – 10:45\nSession: Prion Diseases in AnimalsOral presentations\n\n\n10:45 – 12:45\nSession: Prion and Prion-like Diseases in HumansTalks\n\n\n12:45 – 14:15\nLunch (Comedor Serrano 150)\n\n\n\n\n\nAfternoon\n\n\n\n\n\n\n\nTime\nActivity\n\n\n\n\n14:15 – 16:00\nTalks\n\n\n16:00 – 16:30\nPatient associations\n\n\n16:30 – 16:40\nNext meeting announcement + Closing remarks\n\n\n16:45 – 18:45\nFarewell party (coffee and soft drinks)Poster prize, removal, closing (Claustro)\n\n\n\n\n\nEvening\n\n\n\n\n\n\n\nTime\nActivity\n\n\n\n\n21:00\nConference Symposium (Networking about prions)"
   },
   {
     "objectID": "2026/sponsors.html",
     "href": "2026/sponsors.html",
     "title": "Sponsors and Exhibitors",
     "section": "",
-    "text": "We gratefully acknowledge the support of our sponsors and partners.\nInformation for potential sponsors and exhibitors, including available packages and benefits, will be published here.\nIf you are interested in sponsoring the Iberian Prion Meeting 2026, please contact the organizing committee."
+    "text": "We gratefully acknowledge the support of our sponsors and partners.\n\n\n\nInformation for potential sponsors and exhibitors, including available packages and benefits, will be published here.\nIf you are interested in sponsoring the Iberian Prion Meeting 2026, please contact the organizing committee: inia_iberianprion2026@inia.csic.es."
   }
 ]

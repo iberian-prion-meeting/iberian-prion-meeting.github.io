@@ -5,15 +5,15 @@ project:
     - styles.css 
     - _beforebody.html
     - _footer.html
+    - 2026/figures
   render: 
     - 2026/*.qmd
 
 website:
-  title: "Iberian Prion Meeting"
-  site-url: /
-  sidebar: false
-
+  title: "Iberian Prion Meeting 2026"
   navbar:
+    title: "Iberian Prion Meeting 2026"
+    href: "/2026/"
     left:
       - href: 2026/index.qmd
         text: "Home 2026"
@@ -29,15 +29,12 @@ website:
         text: "Venue"
       - href: 2026/sponsors.qmd
         text: "Sponsors"
+      - href: 2026/contact.qmd
+        text: "Contact"
+
 
 format:
   html:
     css: styles.css
     include-before-body: _beforebody.html
     include-after-body: _footer.html
-
-
-# test
-
-
-
