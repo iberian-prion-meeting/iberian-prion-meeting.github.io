@@ -173,7 +173,7 @@ ul.task-list li input[type="checkbox"] {
 <p><img src="figures/ISCIII2.jpg" height="100"></p>
 <p><img src="figures/PID2023.jpg" height="100"></p>
 <p>Information for potential sponsors and exhibitors, including available packages and benefits, will be published here.</p>
-<p>If you are interested in sponsoring the Iberian Prion Meeting 2026, please contact the organizing committee: inia_iberianprion2026@inia.csic.es.</p>
+<p>If you are interested in sponsoring the Iberian Prion Meeting 2026, please contact the organizing committee: inia_iberianprion2026@inia.csic.es</p>
 
 
 
@@ -259,7 +259,7 @@ ul.task-list li input[type="checkbox"] {
     }
       var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
       var mailtoRegex = new RegExp(/^mailto:/);
-        var filterRegex = new RegExp("https:\/\/iberianprion\.org");
+        var filterRegex = new RegExp('/' + window.location.host + '/');
       var isInternal = (href) => {
           return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
       }
