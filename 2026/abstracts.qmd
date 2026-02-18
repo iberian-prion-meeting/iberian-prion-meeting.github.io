@@ -2,8 +2,6 @@
 title: "Abstract Submission"
 ---
 
-Information on abstract submission, including important dates, formatting guidelines, and submission platform, will be provided here.
-
 ## Important dates
 
 - **Opening of abstract submission:** To be announced  
@@ -13,7 +11,21 @@ Information on abstract submission, including important dates, formatting guidel
 ## Guidelines
 
 - Abstracts should be written in English.  
-- The abstract body should not exceed the word limit specified in the final call.  
-- Please indicate your preferred presentation format (oral or poster) when submitting.  
+- The abstract body should not exceed the word limit specified in the template.  
+- Please indicate your preferred presentation format (oral or poster) when submitting. If you prefer to give an oral presentation, please indicate whether you would like to be considered for selection as an invited talk. There are many slots available for selected oral presentations, but only a few will be chosen as invited talks, which include reimbursement of the registration fee.  
 
-Further details and a template will be provided once the submission system is open.
+To submit your abstract, click here.
+
+::: {.callout-note}
+## Submit your abstract
+
+<a class="btn btn-lg" 
+   href="https://forms.gle/rPYNwghcnHpacG8b6" 
+   target="_blank"
+   style="background-color:#C8102E; color:white; border:none;">
+  Submit Abstract
+</a>
+
+:::
+
+

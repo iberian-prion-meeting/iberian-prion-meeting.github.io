@@ -25,6 +25,33 @@ Registration deadline: To be updated soon! — registration page
 
 **Congress: 21-22 May 2026**
 
+**Sponsors**
+
+
+<div style="display: flex; justify-content: space-around; align-items: center; gap: 20px; margin-top: 40px; flex-wrap: wrap;">
+  <a href="https://www.csic.es/es" target="_blank">
+    <img src="figures/CSIC.jpg" alt="Sponsor 1" style="height: 90px;">
+  </a>
+
+  <a href="https://www.isciii.es/" target="_blank">
+    <img src="figures/ISCIII2.JPG" alt="Sponsor 2" style="height: 90px;">
+  </a>
+
+  <a href="https://link.springer.com/journal/13567" target="_blank">
+    <img src="figures/veterinary_R_journal.jpg" alt="Sponsor 3" style="height: 90px;">
+  </a>
+
+ <a href="https://fundacionprionicas.org/" target="_blank">
+    <img src="figures/Fund_Prionicas.jpg" alt="Sponsor 4" style="height: 90px;">
+  </a>
+
+</div>
+
+<div style="text-align: center; margin-top: 30px;">
+  <img src="figures/PID2023.jpg" alt="Sponsor 5" style="height: 110px;">
+</div>
+
+
 ## Explore the 2026 Meeting
 
 - [Abstracts](abstracts.qmd)
