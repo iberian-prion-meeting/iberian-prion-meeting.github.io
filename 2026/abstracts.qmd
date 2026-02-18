@@ -14,6 +14,16 @@ title: "Abstract Submission"
 - The abstract body should not exceed the word limit specified in the template.  
 - Please indicate your preferred presentation format (oral or poster) when submitting. If you prefer to give an oral presentation, please indicate whether you would like to be considered for selection as an invited talk. There are many slots available for selected oral presentations, but only a few will be chosen as invited talks, which include reimbursement of the registration fee.  
 
+## Download the Abstract Template
+
+<a class="btn btn-lg"
+   href="https://iberianprion.org/2026/files/Abstract_Template_Submission26.docx"
+   target="_blank"
+   style="background-color:#C8102E; color:white; border:none;">
+  Download Abstract Template
+</a>
+
+
 To submit your abstract, click here.
 
 ::: {.callout-note}
