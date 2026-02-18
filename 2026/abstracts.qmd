@@ -17,7 +17,7 @@ title: "Abstract Submission"
 ## Download the Abstract Template
 
 <a class="btn btn-lg"
-   href="https://iberianprion.org/2026/files/Abstract_Template_Submission26.docx"
+   href="https://iberianprion.org/2026/files/Abstract_26.docx"
    target="_blank"
    style="background-color:#C8102E; color:white; border:none;">
   Download Abstract Template
