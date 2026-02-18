@@ -34,7 +34,7 @@ Registration deadline: To be updated soon! — registration page
   </a>
 
   <a href="https://www.isciii.es/" target="_blank">
-    <img src="figures/ISCIII2.JPG" alt="Sponsor 2" style="height: 90px;">
+    <img src="figures/ISCIII.JPG" alt="Sponsor 2" style="height: 90px;">
   </a>
 
   <a href="https://link.springer.com/journal/13567" target="_blank">

@@ -15,7 +15,7 @@ We gratefully acknowledge the support of our sponsors and partners.
 
   <!-- ISCIII -->
   <a href="https://www.isciii.es" target="_blank">
-    <img src="figures/ISCIII2.jpg"
+    <img src="figures/ISCIII.jpg"
          style="max-width: 160px; max-height: 100px; object-fit: contain;"
          alt="ISCIII logo">
   </a>
