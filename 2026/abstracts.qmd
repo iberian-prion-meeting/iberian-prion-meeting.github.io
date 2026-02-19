@@ -38,4 +38,6 @@ To submit your abstract, click here.
 
 :::
 
+<!-- Force Quarto to copy the template -->
+[Download template](files/Abstract_26.docx){.hidden}
 
