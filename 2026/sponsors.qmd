@@ -9,35 +9,35 @@ We gratefully acknowledge the support of our sponsors and partners.
   <!-- CSIC (logo ancho) -->
   <a href="https://www.csic.es" target="_blank">
     <img src="figures/CSIC.jpg"
-         style="max-width: 240px; height: auto; object-fit: contain;"
+         style="max-width: 220px; height: auto; object-fit: contain;"
          alt="CSIC logo">
   </a>
 
   <!-- ISCIII -->
   <a href="https://www.isciii.es" target="_blank">
     <img src="figures/ISCIII.jpg"
-         style="max-width: 160px; max-height: 100px; object-fit: contain;"
+         style="max-width: 140px; max-height: 100px; object-fit: contain;"
          alt="ISCIII logo">
   </a>
 
   <!-- Research in Veterinary Science -->
   <a href="https://www.journals.elsevier.com/research-in-veterinary-science" target="_blank">
     <img src="figures/veterinary_R_journal.JPG"
-         style="max-width: 160px; max-height: 100px; object-fit: contain;"
+         style="max-width: 140px; max-height: 100px; object-fit: contain;"
          alt="Research in Veterinary Science journal logo">
   </a>
 
   <!-- Fundación Priónicas -->
   <a href="https://www.fundacionprionicas.org" target="_blank">
     <img src="figures/Fund_Prionicas.JPG"
-         style="max-width: 160px; max-height: 100px; object-fit: contain;"
+         style="max-width: 140px; max-height: 100px; object-fit: contain;"
          alt="Fundación Prionicas logo">
   </a>
 
   <!-- PID (logo ancho) -->
   <a href="https://pid.es" target="_blank">
     <img src="figures/PID2023.jpg"
-         style="max-width: 240px; height: auto; object-fit: contain;"
+         style="max-width: 220px; height: auto; object-fit: contain;"
          alt="PID 2023 logo">
   </a>
 
