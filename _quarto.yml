@@ -6,7 +6,7 @@ project:
     - _beforebody.html
     - _footer.html
     - 2026/figures
-    - 2026/files/
+    - 2026/files
   render: 
     - 2026/*.qmd
 
