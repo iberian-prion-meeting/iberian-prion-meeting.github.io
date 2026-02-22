@@ -4,8 +4,8 @@ title: "Abstract Submission"
 
 ## Important dates
 
-- **Opening of abstract submission:** March 1st  
-- **Deadline for abstract submission:** April 13th
+- **Opening of abstract submission:** March 1<sup>st</sup>  
+- **Deadline for abstract submission:** April 13<sup>th</sup>
 
 ## Guidelines
 
@@ -22,10 +22,9 @@ title: "Abstract Submission"
   Download Abstract Template
 </a>
 
-To submit your abstract, click here.
+## To submit your abstract, click:
 
 ::: {.callout-note}
-## Submit your abstract
 
 <a class="btn btn-lg" 
    href="https://forms.gle/rPYNwghcnHpacG8b6" 
