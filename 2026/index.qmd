@@ -3,6 +3,7 @@ title: "Iberian Prion Meeting 2026"
 ---
 
 **Madrid, Spain — 2026**  
+
 **Welcome to the 14th Iberian Prion Congress in Madrid!**
 
 The Iberian Prion Congress has long been a multidisciplinary meeting bringing together experts to explore the shared mechanisms of prion diseases and other protein misfolding disorders.
@@ -19,8 +20,8 @@ The Organizing Committee
 
 ## Important dates
 
-Abstract submission deadline: **13th April** — [Submit your abstract](abstracts.qmd)  
-Registration deadline: **20th April** — [Registration page](registration.qmd)
+Abstract submission deadline: **13<sup>th</sup> April** — [Submit your abstract](abstracts.qmd)  
+Registration deadline: **20<sup>th</sup> April** — [Registration page](registration.qmd)
 
 **Congress: 21–22 May 2026**
 
