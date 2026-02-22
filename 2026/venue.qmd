@@ -30,7 +30,7 @@ Registration, poster sessions, and coffee breaks will be held in the Claustro, a
 
 The Claustro is part of the CSIC’s central campus and reflects the architectural heritage of early 20th-century Spanish science. Its covered walkways and central garden provide a unique setting for poster presentations and social interaction throughout the meeting.
 
-<img src="figures/claustro.jpeg" height="100"> 
+<img src="figures/claustro.jpeg" height="300"> 
 
 To reach the Claustro from the Rocasolano Institute (Assembly Hall), simply walk across the internal campus path toward the Miguel A. Catalán Physics Centre, located just beyond the Blas Cabrera Institute. The route takes less than two minutes on foot.
 
