@@ -34,7 +34,7 @@ Registration deadline: **20th April** — [Registration page](registration.qmd)
   </a>
 
   <a href="https://link.springer.com/journal/13567" target="_blank">
-    <img src="figures/veterinary_R_journal.jpg" alt="Veterinary Research Journal" style="height: 80px;">
+    <img src="figures/veterinary_BMC_AJ_Icon_13567_midnight.jpg" alt="Veterinary Research Journal" style="height: 80px;">
   </a>
 
   <a href="https://fundacionprionicas.org/" target="_blank">
