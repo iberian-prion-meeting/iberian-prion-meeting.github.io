@@ -1,34 +1,74 @@
-**Sponsors**
+---
+title: "Iberian Prion Meeting 2026"
+---
 
-<div style="display: flex; flex-direction: column; align-items: center; gap: 25px; margin-top: 40px;">
+**Madrid, Spain — 2026**  
+**Welcome to the 14th Iberian Prion Congress in Madrid!**
 
-  <div style="border: 2px solid #C8102E; padding: 12px; width: 260px; text-align: center; margin-bottom: 10px;">
-    <a href="https://www.csic.es/es" target="_blank">
-      <img src="figures/CSIC.jpg" alt="Sponsor CSIC" style="width: 100%; height: auto;">
-    </a>
-  </div>
+The Iberian Prion Congress has long been a multidisciplinary meeting bringing together experts to explore the shared mechanisms of prion diseases and other protein misfolding disorders.
 
-  <div style="border: 2px solid #C8102E; padding: 12px; width: 260px; text-align: center; margin-bottom: 10px;">
-    <a href="https://link.springer.com/journal/13567" target="_blank">
-      <img src="figures/veterinary_BMC_AJ_Icon_13567_midnight.jpg" alt="Veterinary Research Journal" style="width: 100%; height: auto;">
-    </a>
-  </div>
+We are honored to host the 14th Iberian Prion Congress in Madrid, a European capital with a rich political and scientific heritage. The meeting will take place in a historic and influential biomedical institution, uniting leading scientists, clinicians, veterinarians, and specialists from across the Iberian Peninsula and beyond to exchange knowledge and strengthen collaborations. In addition, the active involvement of patient associations will provide an essential perspective, reinforcing the social relevance and human impact of our collective efforts.
 
-  <div style="border: 2px solid #C8102E; padding: 12px; width: 260px; text-align: center; margin-bottom: 10px;">
-    <a href="https://fundacionprionicas.org/" target="_blank">
-      <img src="figures/Fund_Prionicas.jpg" alt="Fundación Priónicas" style="width: 100%; height: auto;">
-    </a>
-  </div>
+As in previous editions, we are committed to fostering the participation of young scientists, whose innovative ideas and fresh perspectives drive progress in prion research. Dedicated sessions and interactive discussions will offer them opportunities for presentation, mentorship, and scientific exchange.
 
-  <div style="border: 2px solid #C8102E; padding: 12px; width: 260px; text-align: center; margin-bottom: 10px;">
-    <a href="https://www.isciii.es/" target="_blank">
-      <img src="figures/Logo_carlos.JPG" alt="ISCIII" style="width: 100%; height: auto;">
-    </a>
-  </div>
+Inspired by Madrid’s vibrant intellectual atmosphere and the collaborative spirit of this congress, we aim to explore new frontiers and work toward solutions to the challenges posed by prion diseases. We extend our sincere gratitude to all participants, speakers, sponsors, and volunteers for their essential contributions.
 
-  <div style="border: 2px solid #C8102E; padding: 12px; width: 260px; text-align: center; margin-bottom: 10px;">
-    <img src="figures/PID2023.jpg" alt="PID2023" style="width: 100%; height: auto;">
-  </div>
+We look forward to welcoming you to Madrid and joining forces to build new partnerships that will help pave the way toward conquering prion diseases and bringing hope to those affected.
 
+The Organizing Committee
+
+## Important dates
+
+Abstract submission deadline: **13th April** — [Submit your abstract](abstracts.qmd)  
+Registration deadline: **20th April** — [Registration page](registration.qmd)
+
+**Congress: 21–22 May 2026**
+
+## Sponsors
+
+<!-- CSIC -->
+<div style="text-align: center; margin-top: 30px;">
+  <a href="https://www.csic.es/es" target="_blank">
+    <img src="figures/CSIC.jpg" alt="Sponsor CSIC"
+         style="height: 110px; border: 2px solid #C8102E; border-radius: 10px; padding: 10px;">
+  </a>
 </div>
 
+<!-- Veterinary Research Journal -->
+<div style="text-align: center; margin-top: 30px;">
+  <a href="https://link.springer.com/journal/13567" target="_blank">
+    <img src="figures/veterinary_R_journal.jpg" alt="Veterinary Research Journal"
+         style="height: 110px; border: 2px solid #C8102E; border-radius: 10px; padding: 10px;">
+  </a>
+</div>
+
+<!-- Fundación Priónicas -->
+<div style="text-align: center; margin-top: 30px;">
+  <a href="https://fundacionprionicas.org/" target="_blank">
+    <img src="figures/Fund_Prionicas.jpg" alt="Fundación Priónicas"
+         style="height: 110px; border: 2px solid #C8102E; border-radius: 10px; padding: 10px;">
+  </a>
+</div>
+
+<!-- ISCIII -->
+<div style="text-align: center; margin-top: 30px;">
+  <a href="https://www.isciii.es/" target="_blank">
+    <img src="figures/ISC3b.JPG" alt="ISCIII"
+         style="height: 110px; border: 2px solid #C8102E; border-radius: 10px; padding: 10px;">
+  </a>
+</div>
+
+<!-- PID2023 -->
+<div style="text-align: center; margin-top: 30px;">
+  <img src="figures/PID2023.jpg" alt="PID2023"
+       style="height: 130px; border: 2px solid #C8102E; border-radius: 10px; padding: 10px;">
+</div>
+
+## Explore the 2026 Meeting
+
+- [Abstracts](abstracts.qmd)
+- [Committee](committee.qmd)
+- [Programme](programme.qmd)
+- [Registration](registration.qmd)
+- [Venue](venue.qmd)
+- [Sponsors](sponsors.qmd)

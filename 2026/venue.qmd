@@ -6,7 +6,7 @@ title: "Venue"
 
 The Iberian Prion Meeting 2026 will take place in one of the most iconic scientific spaces in Madrid: the Assembly Hall of the Blas Cabrera (former Rocasolano) Institute of Physical Chemistry (119 Serrano Street). This building is part of a campus with a remarkable history that shaped modern science in Spain.
 
-<img src="figures/IQBC.jpg" height="300">
+<img src="figures/IQBC.jpeg" height="300">
 
 ## History of the venue. 
 
@@ -30,7 +30,7 @@ Registration, poster sessions, and coffee breaks will be held in the Claustro, a
 
 The Claustro is part of the CSIC’s central campus and reflects the architectural heritage of early 20th-century Spanish science. Its covered walkways and central garden provide a unique setting for poster presentations and social interaction throughout the meeting.
 
-<img src="figures/claustro.jpg" height="100"> 
+<img src="figures/claustro.jpeg" height="100"> 
 
 To reach the Claustro from the Rocasolano Institute (Assembly Hall), simply walk across the internal campus path toward the Miguel A. Catalán Physics Centre, located just beyond the Blas Cabrera Institute. The route takes less than two minutes on foot.
 
