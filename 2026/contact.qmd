@@ -5,6 +5,4 @@ title: "Contact"
 
 For any questions regarding the Iberian Prion Meeting 2026, please contact the organizing committee via Email:
 
-- **Email:**  inia_iberianprion2026@inia.csic.es 
-- 
-
+- **Email:**  [inia_iberianprion2026@inia.csic.es](mailto:inia_iberianprion2026@inia.csic.es)

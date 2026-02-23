@@ -43,3 +43,6 @@ td.time {
   font-weight: bold;
   color: #b22222;
 }
+p {
+  text-align: justify;
+}

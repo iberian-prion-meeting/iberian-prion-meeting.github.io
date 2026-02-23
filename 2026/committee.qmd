@@ -12,11 +12,15 @@ title: "Scientific and Organizing Committees"
 
 - Jesús Requena, USC, Spain
 
+- Juan Carlos Espinosa Martín, CISA-INIA-CSIC, Spain
+
 - Juan María Torres Trillo, CISA-INIA-CSIC, Spain
    
 - Laura Manzanares Alaminos, CISA-INIA-CSIC, Spain
 
 - Leticia Lucero López, CNB-CSIC, Spain
+
+- Natalia Fernández Borges, CISA-INIA-CSIC, Spain
 
 - Nuno Filipe Coutinho Gonçalves Anjo, CICbioGUNE, Spain
  
@@ -26,7 +30,7 @@ title: "Scientific and Organizing Committees"
 
 - Sara Canoyra Sánchez, CISA-INIA-CSIC, Spain
 
-- Sara González-Navarro, Spanish Prion Disease Foundation, Spain
+- Sara González-Navarro, Fundación Española de Enfermedades Priónicas, Spain
 
 
 # Scientific Committee
@@ -49,6 +53,8 @@ title: "Scientific and Organizing Committees"
 
 - José Antonio del Río (University of Barcelona, Spain)
 
+- Juan Carlos Espinosa Martín, CISA-INIA-CSIC, Spain
+
 - Juan María Torres (CISA-INIA-CSIC, Spain)
 
 - Leonor Orge (INIAV, Portugal)
@@ -56,6 +62,8 @@ title: "Scientific and Organizing Committees"
 - Maria dos Anjos Pires (UTAD, SPCV, Portugal)
   
 - Miguel Calero (ISCIII, Spain)
+
+- Natalia Fernández Borges, CISA-INIA-CSIC, Spain
 
 - Nuno Filipe Coutinho Gonçalves Anjo (CIC BioGUNE; Spain)
 

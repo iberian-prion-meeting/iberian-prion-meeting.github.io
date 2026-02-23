@@ -10,7 +10,7 @@ We gratefully acknowledge the support of our sponsors and partners.
 <div style="text-align: center; margin-top: 30px;">
   <a href="https://www.csic.es/es" target="_blank">
     <img src="figures/CSIC.jpg" alt="Sponsor CSIC"
-         style="height: 110px; border: 2px solid #C8102E; border-radius: 10px; padding: 10px;">
+         style="height: 110px; border: 8px solid #C8102E; border-radius: 10px; padding: 10px;">
   </a>
 </div>
 
@@ -38,6 +38,14 @@ We gratefully acknowledge the support of our sponsors and partners.
   </a>
 </div>
 
+<!-- RER -->
+<div style="text-align: center; margin-top: 30px;">
+  <a href="https://rer-biomed.csic.es/" target="_blank">
+    <img src="figures/RER_logo.jpg" alt="RER"
+         style="height: 110px; border: 8px solid #C8102E; border-radius: 10px; padding: 10px;">
+  </a>
+</div>
+
 <!-- PID2023 -->
 <div style="text-align: center; margin-top: 30px;">
   <img src="figures/PID2023.jpg" alt="PID2023"
@@ -47,4 +55,4 @@ We gratefully acknowledge the support of our sponsors and partners.
 ---
 
 If you are interested in sponsoring the Iberian Prion Meeting 2026, please contact the organizing committee at:  
-**inia_iberianprion2026@inia.csic.es**
+**[inia_iberianprion2026@inia.csic.es](mailto:inia_iberianprion2026@inia.csic.es)**
