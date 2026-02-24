@@ -102,16 +102,21 @@ Line C1 → Nuevos Ministerios
 
 Metro Line 6 → República Argentina (or a walk from Nuevos Ministerios)
 
-From Atocha train station:
-Metro:
+From Atocha train station: 
+
+Metro (around 30 min):
 
 Line 1 → Cuatro Caminos
 
 Line 6 → República Argentina
 
-Bus:
+Bus, three different bus lines available (around 30 minutes depending on traffic):
 
-Lines 14 or 27 (direct routes along Paseo de la Castellana and Serrano)
+- Line 14 to Serrano – Juan Bravo.
+
+- Line 19 to Serrano – Rubén Darío (recommended).
+
+- Line 27 to Castellana – Rubén Darío.
 
 
 <img src="figures/Madrid-Gran-Vía.jpg">
