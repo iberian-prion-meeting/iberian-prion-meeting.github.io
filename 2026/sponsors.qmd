@@ -30,6 +30,14 @@ We gratefully acknowledge the support of our sponsors and partners.
   </a>
 </div>
 
+<!-- bionova -->
+<div style="text-align: center; margin-top: 30px;">
+  <a href="https://www.bionova.es/" target="_blank">
+    <img src="figures/bioNova.jpg" alt="ISCIII"
+         style="height: 110px; border: 8px solid #C8102E; border-radius: 10px; padding: 10px;">
+  </a>
+</div>
+
 <!-- ISCIII -->
 <div style="text-align: center; margin-top: 30px;">
   <a href="https://www.isciii.es/" target="_blank">

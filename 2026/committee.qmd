@@ -1,91 +1,63 @@
 ---
 title: "Scientific and Organizing Committees"
+toc: true
+toc-title: "Contents"
 ---
 
-**Chairs**
+## Co‑Chairs
 
-- Juan Carlos Espinosa Martín, Co-Chair, CISA-INIA-CSIC, Spain
+- **Juan Carlos Espinosa Martín** (CISA‑INIA‑CSIC, Spain)  
+- **Natalia Fernández Borges** (CISA‑INIA‑CSIC, Spain)
 
-- Natalia Fernández Borges, Co-Chair, CISA-INIA-CSIC, Spain
+---
 
-# Organizing Committee
-
-- Jesús Requena, USC, Spain
-
-- Juan Carlos Espinosa Martín, CISA-INIA-CSIC, Spain
-
-- Juan María Torres Trillo, CISA-INIA-CSIC, Spain
-   
-- Laura Manzanares Alaminos, CISA-INIA-CSIC, Spain
-
-- Leticia Lucero López, CNB-CSIC, Spain
-
-- Natalia Fernández Borges, CISA-INIA-CSIC, Spain
-
-- Nuno Filipe Coutinho Gonçalves Anjo, CICbioGUNE, Spain
- 
-- Patricia Lorenzo Balboa, CISA-INIA-CSIC, Spain
-
-- Rafael Giraldo, CNB-CSIC, Spain
-
-- Sara Canoyra Sánchez, CISA-INIA-CSIC, Spain
-
-- Sara González-Navarro, Fundación Española de Enfermedades Priónicas, Spain
+## Organizing Committee  
 
 
-# Scientific Committee
+- **Jesús Requena** (USC, Spain)  
+- **Juan Carlos Espinosa Martín** (CISA‑INIA‑CSIC, Spain)  
+- **Juan María Torres Trillo** (CISA‑INIA‑CSIC, Spain)  
+- **Laura Manzanares Alaminos** (CISA‑INIA‑CSIC, Spain)  
+- **Leticia Lucero López** (CNB‑CSIC, Spain)  
+- **Natalia Fernández Borges** (CISA‑INIA‑CSIC, Spain)  
+- **Nuno Filipe Coutinho Gonçalves Anjo** (CIC bioGUNE, Spain)  
+- **Patricia Lorenzo Balboa** (CISA‑INIA‑CSIC, Spain)  
+- **Rafael Giraldo** (CNB‑CSIC, Spain)  
+- **Sara Canoyra Sánchez** (CISA‑INIA‑CSIC, Spain)  
+- **Sara González‑Navarro** (Fundación Española de Enfermedades Priónicas, Spain)
 
-- Alba Marín-Moreno (LCV, Spain)
+---
 
-- Alicia Otero (UZAR, Spain)
+## Scientific Committee  
 
-- Ana Rita Álvaro (CNC-CIBB-iiiUC, Portugal)
-  
-- Emiliano Biassini (University of Trento, Italy)
 
-- Enric Vidal (IRTA-Cresa; UAB, Spain)
+- **Alba Marín‑Moreno** (LCV, Spain)  
+- **Alicia Otero** (UZAR, Spain)  
+- **Ana Rita Álvaro** (CNC‑CIBB‑iiiUC, Portugal)  
+- **Emiliano Biassini** (University of Trento, Italy)  
+- **Enric Vidal** (IRTA‑CReSA; UAB, Spain)  
+- **Glen Telling** (Colorado State University; Prion Research Center, USA)  
+- **Jesús Requena** (University of Santiago de Compostela, Spain)  
+- **Joaquín Castilla** (CIC bioGUNE, Spain)  
+- **José Antonio del Río** (University of Barcelona, Spain)  
+- **Juan Carlos Espinosa Martín** (CISA‑INIA‑CSIC, Spain)  
+- **Juan María Torres** (CISA‑INIA‑CSIC, Spain)  
+- **Leonor Orge** (INIAV, Portugal)  
+- **Maria dos Anjos Pires** (UTAD; SPCV, Portugal)  
+- **Miguel Calero** (ISCIII, Spain)  
+- **Natalia Fernández Borges** (CISA‑INIA‑CSIC, Spain)  
+- **Nuno Filipe Coutinho Gonçalves Anjo** (CIC bioGUNE, Spain)  
+- **Olivier Andreoletti** (INRAE, France)  
+- **Rafael Giraldo Suárez** (CNB‑CSIC, Spain)  
+- **Raquel Sánchez‑Valle** (Hospital Clínic de Barcelona, Spain)  
+- **Romolo Nonno** (ISS, Italy)  
+- **Salvador Ventura** (Autonomous University of Barcelona, Spain)  
+- **Susana Guimarães** (University of Porto, Portugal)  
+- **Sylvie Benestad** (NVI, Ås, Norway)  
+- **Tiago Oteiro** (University Medical Center Göttingen, Germany)  
+- **Tuane C. R. G. Vieira** (Universidade Federal do Rio de Janeiro, Brazil)  
+- **Vincent Beringue** (INRAE, France)
 
-- Glen Telling (Colorado State University; Prion Research Center, USA)
-
-- Jesús Requena (University of Santiago de Compostela, Spain)
-
-- Joaquín Castilla (CIC BioGUNE; Spain)
-
-- José Antonio del Río (University of Barcelona, Spain)
-
-- Juan Carlos Espinosa Martín, CISA-INIA-CSIC, Spain
-
-- Juan María Torres (CISA-INIA-CSIC, Spain)
-
-- Leonor Orge (INIAV, Portugal)
-
-- Maria dos Anjos Pires (UTAD, SPCV, Portugal)
-  
-- Miguel Calero (ISCIII, Spain)
-
-- Natalia Fernández Borges, CISA-INIA-CSIC, Spain
-
-- Nuno Filipe Coutinho Gonçalves Anjo (CIC BioGUNE; Spain)
-
-- Olivier Andreoletti (INRAE, France)
-
-- Rafael Giraldo Suárez (CNB-CSIC, Spain)
-
-- Raquel Sánchez-Valle (Hospital Clínic de Barcelona, Spain)
-
-- Romolo Nonno (ISS, Italy)
-
-- Salvador Ventura (Autonomous University of Barcelona, Spain)
-
-- Susana Guimarães (University of Porto, Portugal) 
-
-- Tiago Oteiro (University Medical Center Goettingen, Germany)
-
-- Tuane CRG Vieira (Universidade Federal do Rio de Janeiro, Brasil)
-
-- Sylvie Benestad (NVI, Ås, Norway) 
-
-- Vincent Beringue  (INRAE, France)
 
 
 

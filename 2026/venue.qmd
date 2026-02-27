@@ -2,9 +2,14 @@
 title: "Venue"
 ---
 
+
 # Conference Venue 
 
-The Iberian Prion Meeting 2026 will take place in one of the most iconic scientific spaces in Madrid: the Assembly Hall of the Blas Cabrera (former Rocasolano) Institute of Physical Chemistry (119 Serrano Street). This building is part of a campus with a remarkable history that shaped modern science in Spain.
+
+
+The Iberian Prion Meeting 2026 will take place in one of the most iconic scientific spaces in Madrid: the Assembly Hall of the Blas Cabrera (former Rocasolano) Institute of Physical Chemistry  
+<a href="https://maps.app.goo.gl/7z7p6Yj8q8N8xJ8b7" class="btn btn-primary" style="margin-left:6px;">📍 119 Serrano Street – Google Maps</a>.  
+This building is part of a campus with a remarkable history that shaped modern science in Spain.
 
 <img src="figures/IQBC.jpeg" height="300">
 
@@ -26,7 +31,9 @@ You can watch a short video about the history of the building here (audio in Spa
 
 While the scientific sessions of the Iberian Prion Meeting 2026 will take place in the Assembly Hall of the Rocasolano Institute, several key activities will be hosted in another historic building just a few steps away.
 
-Registration, poster sessions, and coffee breaks will be held in the Claustro, a beautiful cloister located within the Miguel A. Catalán Physics Centre, approximately 50 metres from the main hall. This space offers a quiet, open-air atmosphere ideal for informal discussions, networking, and scientific exchange.
+Registration, poster sessions, and coffee breaks will be held in the Claustro, a beautiful cloister located within the  
+<a href="https://maps.app.goo.gl/6q8z8p7i5o9uQ2yE8" class="btn btn-primary" style="margin-left:6px;">📍 Miguel A. Catalán Physics Centre – Google Maps</a>,  
+approximately 50 metres from the main hall. This space offers a quiet, open-air atmosphere ideal for informal discussions, networking, and scientific exchange.
 
 The Claustro is part of the CSIC’s central campus and reflects the architectural heritage of early 20th-century Spanish science. Its covered walkways and central garden provide a unique setting for poster presentations and social interaction throughout the meeting.
 
