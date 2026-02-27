@@ -2,34 +2,40 @@
 title: "Registration"
 ---
 
+To register for the congress, please use the official registration platform:
 
-To register for the congress, please access the registration form (**to be included soon**).  
+<a class="btn btn-lg"
+   href="https://grxworkshop-en.congressus.es/iberian_prion/inscripciones"
+   target="_blank"
+   style="background-color:#C8102E; color:white; border:none; margin-top:10px;">
+  🔗 Go to Registration Platform
+</a>
 
 **Deadline: April 20<sup>th</sup>, 2026.**
 
-**Registration fee: 150 euros.**
+**Registration fee: 150 euros** (21% VAT included).
 
 Registration will include:
 
 - Congress bag
-
 - Access to all scientific and poster sessions
-
 - Conference materials
-
 - Lunch
-
 - Welcome reception, coffee breaks, and evening social sessions (excluding the Conference Symposium)
 
-Two **additional rooms are available after request for potential satellite meetings** during both Congress days. If you are interested, please contact [inia_iberianprion2026@inia.csic.es](mailto:inia_iberianprion2026@inia.csic.es)
+Attendance is limited to 140 participants. Registration will close automatically once this capacity is reached.
 
+Two **additional rooms are available after request for potential satellite meetings** during both Congress days.  
+If you are interested, please contact  
+[inia_iberianprion2026@inia.csic.es](mailto:inia_iberianprion2026@inia.csic.es)
 
 On Friday evening (21 May), following the long‑standing tradition of the Iberian Prion Meetings, we will host an additional optional symposium. It’s a great chance to meet new colleagues, reconnect with familiar faces, and open the door to new collaborations—or strengthen the ones you already have. The atmosphere will be relaxed, friendly, and ideal for meaningful conversations that continue advancing prion science while enjoying the company of the wider research community.
 
-If you would like to join the **Conference Symposium (networking on prions)**, an additional fee of **45 euros** applies. 
+If you would like to join the **Conference Symposium (networking on prions)**, an additional fee of **45 euros** applies (21% VAT included). 
 
-If you have any questions about registration, please contact
-[inia_iberianprion2026@inia.csic.es](mailto:inia_iberianprion2026@inia.csic.es)
+If you have any questions about registration, please contact  
+[inia_iberianprion2026@inia.csic.es](info@grxworkshop.com)
 
-Cancellation/refund policy:
+**Cancellation/refund policy:**  
 The right of withdrawal may be exercised within 14 calendar days of registration by sending an e-mail to the Technical Secretary (info@grxworkshop.com). Fees will not be refunded after this period.
+

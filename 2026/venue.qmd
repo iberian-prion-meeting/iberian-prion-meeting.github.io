@@ -61,7 +61,7 @@ Line 10 – Gregorio Marañón (approx. 12 minutes on foot)
 
 **Bus lines (EMT Madrid)**
 
-Several lines stop directly along Calle Serrano, within 1–3 minutes of the venue:
+Several lines stop directly along Calle Serrano, within 1–5 minutes of the venue:
 5, 14, 27, 43, 120, 147, 150
 
 **Train (Cercanías Renfe)**
@@ -86,37 +86,38 @@ Pick‑up and drop‑off at Serrano 119 are straightforward due to wide sidewalk
 **Recommended routes**
 
 From the airport (MAD):
-Taxi / Ride‑hailing: fastest and most direct option (20–25 min).
 
-Metro (around 40 min):
+  Taxi / Ride‑hailing: fastest and most direct option (20–25 min).
 
-Line 8 → Nuevos Ministerios
+  Metro (around 40 min):
 
-Transfer to Line 6 → República Argentina (1 stop)
+    Line 8 → Nuevos Ministerios
 
-Short walk to Serrano 119
+    Transfer to Line 6 → República Argentina (1 stop)
 
-Train (Cercanías; around 40 min):
+    Short walk to Serrano 119
 
-Line C1 → Nuevos Ministerios
+  Train (Cercanías; around 40 min):
 
-Metro Line 6 → República Argentina (or a walk from Nuevos Ministerios)
+    Line C1 → Nuevos Ministerios
+
+    Metro Line 6 → República Argentina (or a walk from Nuevos Ministerios)
 
 From Atocha train station: 
 
-Metro (around 30 min):
+  Metro (around 30 min):
 
-Line 1 → Cuatro Caminos
+    Line 1 → Cuatro Caminos
 
-Line 6 → República Argentina
+    Line 6 → República Argentina
 
-Bus, three different bus lines available (around 30 minutes depending on traffic):
+  Bus, three different bus lines available (around 30 minutes depending on traffic):
 
-- Line 14 to Serrano – Juan Bravo.
+  - Line 14 to Serrano – Juan Bravo.
 
-- Line 19 to Serrano – Rubén Darío (recommended).
+  - Line 19 to Serrano – Rubén Darío (recommended).
 
-- Line 27 to Castellana – Rubén Darío.
+  - Line 27 to Castellana – Rubén Darío.
 
 
 <img src="figures/Madrid-Gran-Vía.jpg">
