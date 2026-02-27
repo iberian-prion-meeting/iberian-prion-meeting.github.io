@@ -38,7 +38,33 @@ To reach the Claustro from the Rocasolano Institute (Assembly Hall), simply walk
 
 <img src="figures/Map.jpg" height="360">
 
+## Accommodation
+
+Special discount for congress attendees at 1881 Madrid Ventas Hotel
+Promocode: 1881MADRIDVENTAS
+
+Bookings must be made through the hotel’s official website:
+https://www.1881madridventashotel.com/en/
+
+10% discount applicable only to the flexible rate (non‑refundable rate excluded).
+
+Combinable with the exclusive website discount (10%) and the loyalty discount (5%).
+
+Free cancellation up to 48 hours before arrival.
+
+How to apply the promocode:  
+When selecting your dates and room type, you will find a field labelled “Promocode”.
+Enter 1881MADRIDVENTAS in that box to activate the discount.
+
+<div style="margin-top: 1rem;">
+<a href="https://www.1881madridventashotel.com/en/" style="display:inline-block; background-color:#C8102E; color:white; padding:12px 22px; border-radius:4px; text-decoration:none; font-weight:600;">
+Special Discount – 1881 Madrid Ventas Hotel
+</a>
+</div>
+
 ## How to get there. Travel Information
+
+
 
 **Nearest airport**
 
