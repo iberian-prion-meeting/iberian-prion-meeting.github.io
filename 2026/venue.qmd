@@ -43,7 +43,10 @@ To reach the Claustro from the Rocasolano Institute (Assembly Hall), simply walk
 
 ## Don't miss the RESIDENCIA DE ESTUDIANTES
 
-The *Residencia de Estudiantes*, located just a few steps from the Rocasolano Institute, is one of Spain’s most iconic cultural and scientific landmarks, linked to figures such as Lorca, Dalí, and Severo Ochoa. During the Iberian Prion Meeting 2026, we encourage all attendees to take advantage of its proximity and explore its historic gardens, buildings, and exhibitions. You can also enhance your visit using their official audio‑guide app, which offers a self‑guided tour of this unique space.
+The *Residencia de Estudiantes*, located just a few steps from the Rocasolano Institute, is one of Spain’s most iconic cultural and scientific landmarks, associated with figures such as Lorca, Dalí, and Severo Ochoa. During the Iberian Prion Meeting 2026, we encourage all attendees to take advantage of its proximity and visit its historic gardens, buildings, and exhibitions **free of charge**. You can also enhance your visit with their **official audio‑guide app**, which offers a self‑guided tour of this unique space in several languages.
+
+[Download on the App Store](https://apps.apple.com/es/app/gu%C3%ADa-residencia-de-estudiantes/id6608982839){.btn .btn-primary .me-2}
+[Get it on Google Play](https://play.google.com/store/apps/details?id=com.residenciaapp&hl=es){.btn .btn-success}
 
 <div style="margin-top: 1rem;">
 <a href="https://residenciadeestudiantes.com/" style="display:inline-block; background-color:#C8102E; color:white; padding:12px 22px; border-radius:4px; text-decoration:none; font-weight:600;">
