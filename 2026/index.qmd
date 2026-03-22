@@ -43,6 +43,14 @@ Registration deadline: **20<sup>th</sup> April** — [Registration page](registr
   </a>
 </div>
 
+<!-- BIOGEN + BMG (logos fusionados mejorados) -->
+<div style="text-align: center; margin-top: 30px;">
+  <a href="www.biogen.es" target="_blank">
+    <img src="figures/BIOGEN-BMG.jpg" alt="BIOGEN"
+         style="height: 130px; border: 8px solid #C8102E; border-radius: 10px; padding: 10px;">
+  </a>
+</div>
+
 <!-- Fundación Priónicas -->
 <div style="text-align: center; margin-top: 30px;">
   <a href="https://fundacionprionicas.org/" target="_blank">
