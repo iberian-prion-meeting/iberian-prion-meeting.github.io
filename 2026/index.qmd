@@ -20,8 +20,9 @@ The Organizing Committee
 
 ## Important dates
 
-Abstract submission deadline: **13<sup>th</sup> April** — [Submit your abstract](abstracts.qmd)  
-Registration deadline: **20<sup>th</sup> April** — [Registration page](registration.qmd)
+Extended deadline for abstract submission: **April 20<sup>th</sup>** — [Submit your abstract](abstracts.qmd)  
+
+Only abstracts submitted by participants who have formally completed their registration by **April 20<sup>th</sup>** will be eligible for evaluation. [Registration page](registration.qmd)
 
 **Congress: 21–22 May 2026**
 
