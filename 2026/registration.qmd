@@ -2,16 +2,8 @@
 title: "Registration"
 ---
 
-To register for the congress, please use the official registration platform:
 
-<a class="btn btn-lg"
-   href="https://grxworkshop-en.congressus.es/iberian_prion/inscripciones"
-   target="_blank"
-   style="background-color:#C8102E; color:white; border:none; margin-top:10px;">
-  🔗 Go to Registration Platform
-</a>
-
-**Deadline: April 20<sup>th</sup>, 2026.**
+**Deadline: April 20<sup>th</sup>, 2026. Registration is now closed**
 
 **Registration fee: 150 euros** (21% VAT included).
 

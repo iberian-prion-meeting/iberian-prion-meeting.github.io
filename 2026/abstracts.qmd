@@ -1,3 +1,4 @@
+ 
 ---
 title: "Abstract Submission"
 format:
@@ -5,42 +6,11 @@ format:
     css: styles.css
 ---
 
-
-## Important dates
+## Abstract submission is now closed
 
 - **Opening of abstract submission:** March 1<sup>st</sup>  
 - **Extended deadline for abstract submission:** April 20<sup>th</sup>
 
-## Guidelines
-
-- Abstracts should be written in English.  
-- The abstract body should not exceed the word limit specified in the template.
-- Only abstracts submitted by participants who have formally completed their registration by April 20<sup>th</sup> will be eligible for evaluation.
-
-Please indicate your preferred presentation format (oral or poster) when submitting. If you prefer to give an oral presentation, please indicate whether you would like to be considered for selection as an invited talk. There are many slots available for selected oral presentations, but only a few will be chosen as invited talks, which include reimbursement of the registration fee.
-
-All accepted abstracts will be published in the **Proceedings of the Annual Iberian Prion Conference** (ISSN: 3045-6509)  
-
-## Download the Abstract Template
-
-<a class="btn btn-lg"
-   href="https://iberianprion.org/2026/files/Abstract_26.docx"
-   target="_blank"
-   style="background-color:#C8102E; color:white; border:none;">
-  Download Abstract Template
-</a>
-
-## Submit your abstract
-
-<a class="btn btn-lg" 
-   href="https://forms.gle/rPYNwghcnHpacG8b6" 
-   target="_blank"
-   style="background-color:#C8102E; color:white; border:none;">
-  Submit Abstract
-</a>
-
-
-<!-- Force Quarto to copy the template -->
-[Download template](files/Abstract_26.docx){.hidden}
+All accepted abstracts will be published in the **Proceedings of the Annual Iberian Prion Conference** (ISSN: 3045-6509)
 
 
