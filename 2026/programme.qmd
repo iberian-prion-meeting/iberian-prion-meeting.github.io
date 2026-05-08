@@ -32,7 +32,7 @@ A downloadable PDF version of the programme will also be made available here in 
     <td><div style="white-space:nowrap;">10:30–13:00</div></td>
     <td style="background:#F9E5E7; border-left:4px solid #C60B1E;">
       <strong>Session: Prion Structure & Biology I</strong>  
-      <em>(Chairs:Jesús Requena – Leticia Lucero)</em>
+      <em>(Chairs: Jesús Requena – Leticia Lucero)</em>
     </td>
   </tr>
 
