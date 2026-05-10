@@ -1,9 +1,12 @@
 ---
 title: "Programme"
 site: true
----  
+---
 
-A downloadable PDF version of the programme will also be made available here in the next days.
+::: {.download-button}
+[⬇️ Download Programme (PDF)](files/Prion_2026_program.pdf){.btn style="background:#C60B1E; color:white;" target="_blank"}
+:::
+
 
 ---
 
@@ -209,7 +212,7 @@ A downloadable PDF version of the programme will also be made available here in 
 
   <tr><td><div style="white-space:nowrap;">11:45–12:00</div></td><td><strong>Ralf Ernsberger</strong> (BMG LABTECH GmbH, Ortenberg, Germany)<br><em>The perfect match for RT‑QuIC: FLUOstar Omega microplate reader</em></td></tr>
 
-  <tr><td><div style="white-space:nowrap;">12:00–12:15</div></td><td><strong>Bárbara Ramalho</strong> (Center for Neuroscience and Cell Biology)<br><em>Altered circadian and clock gene profiles as potential biomarkers for fatal familial insomnia</em></td></tr>
+  <tr><td><div style="white-space:nowrap;">12:00–12:15</div></td><td><strong>Bárbara Ramalho</strong> (Center for Neuroscience and Cell Biology. University of Coimbra)<br><em>Altered circadian and clock gene profiles as potential biomarkers for fatal familial insomnia</em></td></tr>
 
   <tr><td><div style="white-space:nowrap;">12:15–12:30</div></td><td><strong>Remarh Bsoul</strong> (Danish Reference Center for Prion Diseases, Rigshospitalet)<br><em>Prodromal detection of skin α‑synuclein and clinical relevance of Seed Amplification Assay</em></td></tr>
 
@@ -253,7 +256,7 @@ A downloadable PDF version of the programme will also be made available here in 
 
   <tr><td><div style="white-space:nowrap;">14:45–15:00</div></td><td><strong>Ilaria Vanni</strong> (ISS)<br><em>Evaluation of PrP endoproteolytic processing in a humanized G114V transgenic mouse model</em></td></tr>
 
-  <tr><td><div style="white-space:nowrap;">15:00–15:15</div></td><td><strong>Ana Rita Álvaro</strong> (University of Coimbra)<br><em>Patient‑derived iPSC‑generated hypothalamic neurons as a model for fatal familial insomnia</em></td></tr>
+  <tr><td><div style="white-space:nowrap;">15:00–15:15</div></td><td><strong>Ana Rita Álvaro</strong> (Center for Neuroscience and Cell Biology. University of Coimbra)<br><em>Patient‑derived iPSC‑generated hypothalamic neurons as a model for fatal familial insomnia</em></td></tr>
 
   <tr>
     <td><div style="white-space:nowrap;">15:15–15:30</div></td>
