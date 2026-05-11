@@ -43,7 +43,7 @@ site: true
   <tr>
     <td><div style="white-space:nowrap;">10:30–11:00</div></td>
     <td style="background:#E8F4FF; border-left:4px solid #C60B1E;">
-      <strong>Sanaz Sabzehei</strong> (University of Santiago de Compostela)<br>
+      <strong>Invited speaker: Sanaz Sabzehei</strong> (University of Santiago de Compostela)<br>
       <em>Unfold to refold: tracking PrPC unfolding as a pre‑requisite of PrPSc propagation</em>
     </td>
   </tr>
@@ -116,7 +116,7 @@ site: true
   <tr>
     <td><div style="white-space:nowrap;">15:15–15:45</div></td>
     <td style="background:#E8F4FF; border-left:4px solid #C60B1E;">
-      <strong>Barry Bradford</strong> (The Roslin Institute)<br>
+      <strong>Invited speaker: Barry Bradford</strong> (The Roslin Institute)<br>
       <em>Microglia regulate the rate of prion neuropathogenesis</em>
     </td>
   </tr>
@@ -205,7 +205,7 @@ site: true
   <tr>
     <td><div style="white-space:nowrap;">11:15–11:45</div></td>
     <td style="background:#E8F4FF; border-left:4px solid #C60B1E;">
-      <strong>Giuseppe Bufano</strong> (Istituto Neurologico Carlo Besta)<br>
+      <strong>Invited speaker: Giuseppe Bufano</strong> (Istituto Neurologico Carlo Besta)<br>
       <em>Prion detection in the urine of individuals at genetic risk for fatal familial insomnia</em>
     </td>
   </tr>
