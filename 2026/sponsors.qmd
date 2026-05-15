@@ -46,6 +46,14 @@ We gratefully acknowledge the support of our sponsors and partners.
   </a>
 </div>
 
+<!-- IDEXX -->
+<div style="text-align: center; margin-top: 30px;">
+  <a href="https://www.idexx.com/en/livestock/livestock-tests/ruminant-tests/herdchek-bse-scrapie-ag-test/" target="_blank">
+    <img src="figures/IDEXX_Logo.png" alt="IDEXX"
+         style="height: 110px; border: 8px solid #C8102E; border-radius: 10px; padding: 10px;">
+  </a>
+</div>
+
 <!-- ISCIII -->
 <div style="text-align: center; margin-top: 30px;">
   <a href="https://www.isciii.es/" target="_blank">
@@ -67,6 +75,7 @@ We gratefully acknowledge the support of our sponsors and partners.
   <img src="figures/PID2023.jpg" alt="PID2023"
        style="height: 130px; border: 8px solid #C8102E; border-radius: 10px; padding: 10px;">
 </div>
+
 
 ---
 

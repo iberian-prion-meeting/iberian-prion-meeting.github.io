@@ -3,9 +3,23 @@ title: "Programme"
 site: true
 ---
 
-::: {.download-button}
-[⬇️ Download Programme (PDF)](files/Prion_2026_program.pdf){.btn style="background:#C60B1E; color:white;" target="_blank"}
-:::
+<div style="display:flex; gap:20px; margin-bottom:20px; flex-wrap:wrap;">
+
+  <a href="files/Prion_2026_program.pdf" target="_blank" class="btn" style="background:#C60B1E; color:white; padding:10px 20px; border-radius:6px; text-decoration:none;">
+    ⬇️ Download Programme (PDF)
+  </a>
+
+  <a href="files/Abstract_Book_2026.pdf" target="_blank" class="btn" style="background:#C60B1E; color:white; padding:10px 20px; border-radius:6px; text-decoration:none;">
+    ⬇️ Download Abstract Book (PDF)
+  </a>
+
+  <a href="files/Poster_indications.pdf" target="_blank" class="btn" style="background:#C60B1E; color:white; padding:10px 20px; border-radius:6px; text-decoration:none;">
+    ⬇️ Poster Indications (PDF)
+  </a>
+
+</div>
+
+
 
 
 ---
@@ -22,12 +36,12 @@ site: true
 
   <tr>
     <td><div style="white-space:nowrap;">09:00–10:00</div></td>
-    <td style="background:#EFEFEF;">☕ Registration, poster set‑up, and welcome coffee <em>(Claustro)</em></td>
+    <td style="background:#EFEFEF;">☕ Registration, poster set‑up, and coffee <em>(Claustro, Serrano 121)</em></td>
   </tr>
 
   <tr>
     <td><div style="white-space:nowrap;">10:00–10:30</div></td>
-    <td>Welcome session <em>(Assembly Hall, Blas Cabrera Institute)</em><br>Natalia Fernández‑Borges & Juan Carlos Espinosa</td>
+    <td>Welcome session <em>(Assembly Hall, Blas Cabrera Institute, Serrano 119)</em><br>Natalia Fernández‑Borges & Juan Carlos Espinosa</td>
   </tr>
 
   <!-- SESSION 1 -->
@@ -57,17 +71,14 @@ site: true
 
   <tr><td><div style="white-space:nowrap;">11:45–12:00</div></td><td><strong>Human Rezaei</strong> (INRAe)<br><em>Non‑fibrillar prion protein oligomers transmit structural information during early assembly</em></td></tr>
 
-  <tr><td><div style="white-space:nowrap;">12:00–12:15</div></td><td><strong>Emiliano Biasini</strong> (University of Trento)<br><em> Preclinical development of folding‑interfering degraders targeting the cellular prion protein</em></td></tr>
+  <tr><td><div style="white-space:nowrap;">12:00–12:15</div></td><td><strong>Emiliano Biasini</strong> (University of Trento)<br><em>Preclinical development of folding‑interfering degraders targeting the cellular prion protein</em></td></tr>
 
   <tr><td><div style="white-space:nowrap;">12:15–12:30</div></td><td><strong>Leire Hervella‑Barrio</strong> (CIC bioGUNE)<br><em>Beyond nature’s designs: rational engineering of artificial prions to better understand protein misfolding</em></td></tr>
 
-  <tr><td><div style="white-space:nowrap;">12:30–12:45</div></td><td><strong>Francesca Peccati</strong> (CIC bioGUNE)<br><em>Structural basis of glycoform preferences in prion strains RML and ME7</em></td></tr>
-
-  <tr><td><div style="white-space:nowrap;">12:45–13:00</div></td><td><strong>Vincent Béringue</strong> (INRAe)<br><em>Prion infection disrupts endosomal trafficking and induces vacuolation in epithelial cells</em></td></tr>
-
+  <!-- LUNCH MOVED 30 MIN EARLIER -->
   <tr>
-    <td><div style="white-space:nowrap;">13:00–14:30</div></td>
-    <td style="background:#EFEFEF;">🍽️ Lunch <em>(Comedor Serrano 117)</em></td>
+    <td><div style="white-space:nowrap;">12:30–14:00</div></td>
+    <td style="background:#EFEFEF;">🍽️ Lunch <em>(Cafetería Serrano 117)</em></td>
   </tr>
 </table>
 
@@ -81,29 +92,26 @@ site: true
     <th style="width:88%; text-align:left;">Activity</th>
   </tr>
 
-  <!-- SESSION 2 -->
+  <!-- SESSION 2 MOVED 30 MIN EARLIER -->
   <tr>
-    <td><div style="white-space:nowrap;">14:30–15:15</div></td>
+    <td><div style="white-space:nowrap;">14:00–15:15</div></td>
     <td style="background:#F9E5E7; border-left:4px solid #C60B1E;">
       <strong>Session: Prion Structure & Biology II</strong>  
       <em>(Chairs: Emiliano Biasini – Josu Galarza)</em>
     </td>
   </tr>
 
-  <!-- NOT 30-MIN TALK -->
-  <tr>
-    <td><div style="white-space:nowrap;">14:30–14:45</div></td>
-    <td>
-      <strong>Giuseppe Legname</strong> (SISSA)<br>
-      <em>The non‑octa‑repeat region is the main structural determinant of prion conversion</em>
-    </td>
-  </tr>
+  <tr><td><div style="white-space:nowrap;">14:00–14:15</div></td><td><strong>Francesca Peccati</strong> (CIC bioGUNE)<br><em>Structural basis of glycoform preferences in prion strains RML and ME7</em></td></tr>
+
+  <tr><td><div style="white-space:nowrap;">14:15–14:30</div></td><td><strong>Vincent Béringue</strong> (INRAe)<br><em>Prion infection disrupts endosomal trafficking and induces vacuolation in epithelial cells</em></td></tr>
+
+  <tr><td><div style="white-space:nowrap;">14:30–14:45</div></td><td><strong>Giuseppe Legname</strong> (SISSA)<br><em>The non‑octa‑repeat region is the main structural determinant of prion conversion</em></td></tr>
 
   <tr><td><div style="white-space:nowrap;">14:45–15:00</div></td><td><strong>Anna Burato</strong> (SISSA)<br><em>Prion protein deficiency results in synaptic, neural network and behavioral alterations</em></td></tr>
 
-  <tr><td><div style="white-space:nowrap;">15:00–15:15</div></td><td><strong>Elisa Nicolini</strong> (University of Trento)<br><em> A BiFC‑based CRISPR screening platform for the identification of early genetic regulators of PrP biogenesis </em></td></tr>
+  <tr><td><div style="white-space:nowrap;">15:00–15:15</div></td><td><strong>Elisa Nicolini</strong> (University of Trento)<br><em>A BiFC‑based CRISPR screening platform for the identification of early genetic regulators of PrP biogenesis</em></td></tr>
 
-  <!-- SESSION 3 -->
+  <!-- SESSION 3 (unchanged start) -->
   <tr>
     <td><div style="white-space:nowrap;">15:15–16:45</div></td>
     <td style="background:#F9E5E7; border-left:4px solid #C60B1E;">
@@ -112,7 +120,6 @@ site: true
     </td>
   </tr>
 
-  <!-- 30-MIN TALK -->
   <tr>
     <td><div style="white-space:nowrap;">15:15–15:45</div></td>
     <td style="background:#E8F4FF; border-left:4px solid #C60B1E;">
@@ -121,18 +128,17 @@ site: true
     </td>
   </tr>
 
-  <!-- SHORT TALKS -->
-  <tr><td><div style="white-space:nowrap;">15:45–16:00</div></td><td><strong>Vincent Béringue</strong> (Veterinary Research. Editor in Chief)<br><em>Publishing prion research in Veterinary Research: from fundamental mechanisms to population‑level</em></td></tr>
+  <tr><td><div style="white-space:nowrap;">15:45–16:00</div></td><td><strong>Vincent Béringue</strong> (Veterinary Research)<br><em>Publishing prion research in Veterinary Research</em></td></tr>
 
-  <tr><td><div style="white-space:nowrap;">16:00–16:15</div></td><td><strong>Glenn Telling</strong> (Colorado State University)<br><em>Updates on the properties of emergent CWD prions</em></td></tr>
+  <tr><td><div style="white-space:nowrap;">16:00–16:15</div></td><td><strong>Glenn Telling</strong> (Colorado State University)<br><em>Updates on emergent CWD prions</em></td></tr>
 
-  <tr><td><div style="white-space:nowrap;">16:15–16:30</div></td><td><strong>Gage Rowden</strong> (University of Minnesota)<br><em>Growing evidence for dust‑borne, environmental, Chronic Wasting Disease prions: insights from Northern Minnesota</em></td></tr>
+  <tr><td><div style="white-space:nowrap;">16:15–16:30</div></td><td><strong>Gage Rowden</strong> (University of Minnesota)<br><em>Growing evidence for dust‑borne CWD prions</em></td></tr>
 
-  <tr><td><div style="white-space:nowrap;">16:30–16:45</div></td><td><strong>Lars A. Folkman</strong> (Norwegian University of Life Sciences)<br><em>Oral inoculation of sheep with reindeer CWD results in prion amplification in the gut‑associated lymphoid tissues and the central nervous system</em></td></tr>
+  <tr><td><div style="white-space:nowrap;">16:30–16:45</div></td><td><strong>Lars A. Folkman</strong> (Norwegian University of Life Sciences)<br><em>Oral inoculation of sheep with reindeer CWD</em></td></tr>
 
   <tr>
     <td><div style="white-space:nowrap;">16:45–18:30</div></td>
-    <td style="background:#EFEFEF;">🧪 Poster party <em>(Claustro)</em> — coffee, soft drinks, snacks, sandwiches</td>
+    <td style="background:#EFEFEF;">🧪 Poster party <em>(Claustro, Serrano 121)</em> — coffee, soft drinks, snacks, sandwiches</td>
   </tr>
 </table>
 
@@ -157,28 +163,21 @@ site: true
     </td>
   </tr>
 
-  <!-- NOT 30-MIN TALK -->
-  <tr>
-    <td><div style="white-space:nowrap;">09:00–09:15</div></td>
-    <td>
-      <strong>Samia Hannaoui</strong> (University of Calgary)<br>
-      <em>When prions travel South: gastrointestinal dysfunction as a route‑ and strain‑dependent feature of CWD</em>
-    </td>
-  </tr>
+  <tr><td><div style="white-space:nowrap;">09:00–09:15</div></td><td><strong>Samia Hannaoui</strong> (University of Calgary)<br><em>Gastrointestinal dysfunction as a route‑ and strain‑dependent feature of CWD</em></td></tr>
 
-  <tr><td><div style="white-space:nowrap;">09:15–09:30</div></td><td><strong>Sabine Gilch</strong> (University of Calgary)<br><em>Of mice and deer: understanding prion conformational variability and transmission barriers in chronic wasting disease</em></td></tr>
+  <tr><td><div style="white-space:nowrap;">09:15–09:30</div></td><td><strong>Sabine Gilch</strong> (University of Calgary)<br><em>Understanding prion conformational variability and transmission barriers in CWD</em></td></tr>
 
   <tr><td><div style="white-space:nowrap;">09:30–09:45</div></td><td><strong>Oihane Alzuguren</strong> (INRAe)<br><em>When scrapie masks BSE in co‑infected sheep: limitations of standard discriminatory tests</em></td></tr>
 
   <tr><td><div style="white-space:nowrap;">09:45–10:00</div></td><td><strong>Cristina Sampedro‑Torres‑Quevedo</strong> (CIC bioGUNE)<br><em>Rapid generation of prion disease models using AAV‑delivered PrP variants in knockout mice</em></td></tr>
 
-  <tr><td><div style="white-space:nowrap;">10:00–10:15</div></td><td><strong>Sonja Ernst</strong> (Friedrich-Loeffler-Institut)<br><em>A comparative analysis of animal prion strains around the globe</em></td></tr>
+  <tr><td><div style="white-space:nowrap;">10:00–10:15</div></td><td><strong>Sonja Ernst</strong> (Friedrich‑Loeffler‑Institut)<br><em>A comparative analysis of animal prion strains around the globe</em></td></tr>
 
   <tr><td><div style="white-space:nowrap;">10:15–10:30</div></td><td><strong>Jason C. Bartz</strong> (Creighton University)<br><em>Emergence of minor prion strains following heat treatment</em></td></tr>
 
   <tr>
     <td><div style="white-space:nowrap;">10:30–11:15</div></td>
-    <td style="background:#EFEFEF;">☕ Coffee break + poster discussion <em>(Claustro)</em></td>
+    <td style="background:#EFEFEF;">☕ Coffee break + poster discussion <em>(Claustro, Serrano 121)</em></td>
   </tr>
 </table>
 
@@ -194,14 +193,13 @@ site: true
 
   <!-- SESSION 5 -->
   <tr>
-    <td><div style="white-space:nowrap;">11:15–13:00</div></td>
+    <td><div style="white-space:nowrap;">11:15–12:30</div></td>
     <td style="background:#F9E5E7; border-left:4px solid #C60B1E;">
       <strong>Session: Prion and Prion‑like Diseases in Humans I</strong>  
       <em>(Chairs: Ana Rita Álvaro – Valentino Panico)</em>
     </td>
   </tr>
 
-  <!-- 30-MIN TALK -->
   <tr>
     <td><div style="white-space:nowrap;">11:15–11:45</div></td>
     <td style="background:#E8F4FF; border-left:4px solid #C60B1E;">
@@ -210,19 +208,16 @@ site: true
     </td>
   </tr>
 
-  <tr><td><div style="white-space:nowrap;">11:45–12:00</div></td><td><strong>Ralf Ernsberger</strong> (BMG LABTECH GmbH, Ortenberg, Germany)<br><em>The perfect match for RT‑QuIC: FLUOstar Omega microplate reader</em></td></tr>
+  <tr><td><div style="white-space:nowrap;">11:45–12:00</div></td><td><strong>Ralf Ernsberger</strong> (BMG LABTECH GmbH)<br><em>The perfect match for RT‑QuIC: FLUOstar Omega microplate reader</em></td></tr>
 
-  <tr><td><div style="white-space:nowrap;">12:00–12:15</div></td><td><strong>Bárbara Ramalho</strong> (Center for Neuroscience and Cell Biology. University of Coimbra)<br><em>Altered circadian and clock gene profiles as potential biomarkers for fatal familial insomnia</em></td></tr>
+  <tr><td><div style="white-space:nowrap;">12:00–12:15</div></td><td><strong>Bárbara Ramalho</strong> (University of Coimbra)<br><em>Altered circadian and clock gene profiles as potential biomarkers for fatal familial insomnia</em></td></tr>
 
-  <tr><td><div style="white-space:nowrap;">12:15–12:30</div></td><td><strong>Remarh Bsoul</strong> (Danish Reference Center for Prion Diseases, Rigshospitalet)<br><em>Prodromal detection of skin α‑synuclein and clinical relevance of Seed Amplification Assay</em></td></tr>
+  <tr><td><div style="white-space:nowrap;">12:15–12:30</div></td><td><strong>Remarh Bsoul</strong> (Rigshospitalet)<br><em>Prodromal detection of skin α‑synuclein and clinical relevance of Seed Amplification Assay</em></td></tr>
 
-  <tr><td><div style="white-space:nowrap;">12:30–12:45</div></td><td><strong>Cécile Voisset</strong> (INSERM)<br><em>Anti‑prion drugs reduce endoplasmic reticulum stress and protect dopaminergic neurons from death</em></td></tr>
-
-  <tr><td><div style="white-space:nowrap;">12:45–13:00</div></td><td><strong>Nerea Isusi‑Ranero</strong> (Atlas Molecular Pharma)<br><em>Evaluation of different substrates for the optimization of an amyloid propagation assay for the diagnosis and monitoring of proteinopathies</em></td></tr>
-
+  <!-- LUNCH MOVED 30 MIN EARLIER -->
   <tr>
-    <td><div style="white-space:nowrap;">13:00–14:30</div></td>
-    <td style="background:#EFEFEF;">🍽️ Lunch <em>(Comedor Serrano 117)</em></td>
+    <td><div style="white-space:nowrap;">12:30–14:00</div></td>
+    <td style="background:#EFEFEF;">🍽️ Lunch <em>(Cafetería Serrano 117)</em></td>
   </tr>
 </table>
 
@@ -236,80 +231,54 @@ site: true
     <th style="width:88%; text-align:left;">Activity</th>
   </tr>
 
-  <!-- SESSION 6 -->
+  <!-- SESSION 6 MOVED 30 MIN EARLIER -->
   <tr>
-    <td><div style="white-space:nowrap;">14:30–15:45</div></td>
+    <td><div style="white-space:nowrap;">14:00–15:45</div></td>
     <td style="background:#F9E5E7; border-left:4px solid #C60B1E;">
       <strong>Session: Prion and Prion‑like Diseases in Humans II</strong>  
       <em>(Chairs: Joaquín Castilla – Alba González)</em>
     </td>
   </tr>
 
-  <!-- NOT 30-MIN TALK -->
-  <tr>
-    <td><div style="white-space:nowrap;">14:30–14:45</div></td>
-    <td>
-      <strong>Sara Canoyra</strong> (CISA-INIA-CSIC)<br>
-      <em>Generation of a G114V humanized transgenic mouse model and phenotypic characterization of the spontaneous disease</em>
-    </td>
-  </tr>
+  <tr><td><div style="white-space:nowrap;">14:00–14:15</div></td><td><strong>Cécile Voisset</strong> (INSERM)<br><em>Anti‑prion drugs reduce endoplasmic reticulum stress and protect dopaminergic neurons</em></td></tr>
 
-  <tr><td><div style="white-space:nowrap;">14:45–15:00</div></td><td><strong>Ilaria Vanni</strong> (ISS)<br><em>Evaluation of PrP endoproteolytic processing in a humanized G114V transgenic mouse model</em></td></tr>
+  <tr><td><div style="white-space:nowrap;">14:15–14:30</div></td><td><strong>Nerea Isusi‑Ranero</strong> (Atlas Molecular Pharma)<br><em>Substrates for amyloid propagation assays</em></td></tr>
 
-  <tr><td><div style="white-space:nowrap;">15:00–15:15</div></td><td><strong>Ana Rita Álvaro</strong> (Center for Neuroscience and Cell Biology. University of Coimbra)<br><em>Patient‑derived iPSC‑generated hypothalamic neurons as a model for fatal familial insomnia</em></td></tr>
+  <tr><td><div style="white-space:nowrap;">14:30–14:45</div></td><td><strong>Sara Canoyra</strong> (CISA‑INIA‑CSIC)<br><em>G114V humanized transgenic mouse model</em></td></tr>
 
-  <tr>
-    <td><div style="white-space:nowrap;">15:15–15:30</div></td>
-    <td>
-      <strong>Jorge Moreno Charco</strong> (Atlas Molecular Pharma)<br>
-      <em>An oral small molecule inhibitor of PrP translocation extends survival by nearly 50% in a transgenic mouse model of human GSS prion disease</em>
-    </td>
-  </tr>
+  <tr><td><div style="white-space:nowrap;">14:45–15:00</div></td><td><strong>Ilaria Vanni</strong> (ISS)<br><em>Evaluation of PrP endoproteolytic processing</em></td></tr>
 
-  <tr>
-    <td><div style="white-space:nowrap;">15:30–15:45</div></td>
-    <td><strong>Sara González‑Navarro</strong> <em> (President,Spanish Prion Disease Foundation)</em><br>
-    <em>The power of synergy</em></td>
-  </tr>
+  <tr><td><div style="white-space:nowrap;">15:00–15:15</div></td><td><strong>Ana Rita Álvaro</strong> (University of Coimbra)<br><em>iPSC‑generated hypothalamic neurons as a model for fatal familial insomnia</em></td></tr>
 
-  <!-- SEPARADOR GRUESO -->
+  <tr><td><div style="white-space:nowrap;">15:15–15:30</div></td><td><strong>Jorge Moreno Charco</strong> (Atlas Molecular Pharma)<br><em>Small‑molecule inhibitor of PrP translocation extends survival in a GSS mouse model</em></td></tr>
+
+  <tr><td><div style="white-space:nowrap;">15:30–15:45</div></td><td><strong>Sara González‑Navarro</strong> (Spanish Prion Disease Foundation)<br><em>The power of synergy</em></td></tr>
+
+  <!-- SEPARATOR -->
   <tr>
     <td colspan="2" style="background:#C60B1E; height:6px;"></td>
   </tr>
 
-  <tr>
-    <td><div style="white-space:nowrap;">15:45–16:00</div></td>
-    <td>Poster prize</td>
-  </tr>
+  <tr><td><div style="white-space:nowrap;">15:45–16:00</div></td><td>Poster prize</td></tr>
 
-  <tr>
-    <td><div style="white-space:nowrap;">16:00–16:15</div></td>
-    <td>Next meeting announcement — <em>15th Iberian Prion Congress</em></td>
-  </tr>
+  <tr><td><div style="white-space:nowrap;">16:00–16:15</div></td><td>Next meeting announcement — <em>15th Iberian Prion Congress</em></td></tr>
 
-  <tr>
-    <td><div style="white-space:nowrap;">16:15–16:30</div></td>
-    <td>Recapitulation — Natalia Fernández‑Borges & Juan Carlos Espinosa</td>
-  </tr>
+  <tr><td><div style="white-space:nowrap;">16:15–16:30</div></td><td>Recapitulation — Natalia Fernández‑Borges & Juan Carlos Espinosa</td></tr>
 
   <tr>
     <td><div style="white-space:nowrap;">16:30–18:30</div></td>
-    <td style="background:#EFEFEF;">🧪 Farewell party <em>(Claustro)</em> — coffee, soft drinks, snacks; poster removal</td>
+    <td style="background:#EFEFEF;">🧪 Farewell party <em>(Claustro, Serrano 121)</em> — coffee, soft drinks, snacks; poster removal</td>
   </tr>
 
-  <tr>
-    <td><div style="white-space:nowrap;">~19:00</div></td>
-    <td>Informal walk through Madrid on the way to the symposium venue</td>
-  </tr>
+  <tr><td><div style="white-space:nowrap;">~19:00</div></td><td>Informal walk through Madrid on the way to the symposium venue</td></tr>
 
   <tr>
     <td><div style="white-space:nowrap;">20:00</div></td>
     <td style="background:#F9E5E7; border-left:4px solid #C60B1E;">
       <strong>Conference Symposium</strong><br>
-      <em>Networking about prions with food</em>
+      <em>Networking about prions with food — 1881 Madrid Ventas Hotel (Calle Alcalá 269)</em>
     </td>
   </tr>
-
 </table>
 
 <br>
