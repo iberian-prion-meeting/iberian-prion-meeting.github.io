@@ -13,7 +13,7 @@ title: "Iberian Prion Meeting 2026"
   </a>
 
   <a href="https://iberianprion.org/proceedings/" target="_blank" class="btn" style="background:#C60B1E; color:white; padding:10px 20px; border-radius:6px; text-decoration:none;">
-    📚 Proceedings
+    📚 Proceedings of the Annual Iberian Prion Conference
   </a>
 
 </div>
