@@ -1,0 +1,16 @@
+ 
+---
+title: "Abstract Submission"
+format:
+  html:
+    css: styles.css
+---
+
+## Abstract submission is now closed
+
+- **Opening of abstract submission:** March 1<sup>st</sup>  
+- **Extended deadline for abstract submission:** April 20<sup>th</sup>
+
+All accepted abstracts will be published in the **Proceedings of the Annual Iberian Prion Conference** (ISSN: 3045-6509)
+
+
